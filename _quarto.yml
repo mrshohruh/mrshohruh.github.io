@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - .nojekyll
 
 website:
   title: "Shokhrukhkhon Nishonkulov"
@@ -38,5 +40,4 @@ format:
       - brand
     css: styles.css
     toc: true
-
 
