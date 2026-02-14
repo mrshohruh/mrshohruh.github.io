@@ -2,6 +2,6 @@
 title: "About"
 ---
 
-I am **Shokhrukhkhon Nishonkulov**, a Master of Science student at the University of Bonn. My interests include data-driven systems, software engineering, and applied research.
+I am **Shokhrukhkhon Nishonkulov**, an M.Sc. student in Economics at the University of Bonn. My interests include econometrics, data analysis, and applied research in economics and business.
 
 This site is a home for my projects, publications, and technical writing.

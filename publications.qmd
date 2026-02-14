@@ -4,6 +4,8 @@ title: "Publications"
 
 ## Publications
 
-List your papers, reports, or theses here.
-
-- Author, Title, Venue, Year.
+- **2023** — *Econometric Analysis of the Impact of Innovative Development of Business Entities on Economic Growth on the Example of Uzbekistan*
+- **2022** — *Blockchain Technology for Small Businesses*
+- **2022** — *The Role of Information Technologies in the Development of the Digital Economy*
+- **2022** — *In the Context of Developing the Digital Economy: Modern Forms of Employment*
+- **2022** — *Use of Information Systems in a Small Company*

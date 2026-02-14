@@ -4,13 +4,57 @@ title: "CV"
 
 ## Curriculum Vitae
 
-Add your education, experience, and skills here.
-
 ### Education
-- M.Sc., University of Bonn
+- **M.Sc. in Economics**, University of Bonn (Bonn, Germany) — `07/10/2024 – Present`
+- **B.A. in Economics**, Kokand University (Kokand, Uzbekistan) — `10/2020 – 07/2024`  
+  Final grade: 93
+- **General Secondary Education**, 11-school (Kokand, Uzbekistan) — `03/09/2009 – 13/06/2020`  
+  Final grade: 100
 
-### Experience
-- Role, Organization, Dates
+### Work Experience
+- **Head Coordinator**, Incubation and Acceleration Center (IT Park at Kokand University) — `02/2023 – 02/2024`  
+  Learning and supporting startup projects of university students; developing business projects.
+- **Office Assistant**, Department of Digital Technologies and Mathematics, Kokand University — `11/2021 – 09/2022`  
+  Collecting necessary documents from department staff; implementing dean’s and rector’s orders.
 
 ### Skills
-- Programming, Tools, Research Methods
+- Microsoft Office (Word, Excel, PowerPoint, Access)
+- Research and analytical skills
+- Video conferencing (Zoom, Teams, Skype, Webex) — Advanced
+- Google Suite (Docs, Slides, Forms, Sheets, Drive)
+- Organizational and planning skills
+- Presentation platforms (PowerPoint, Prezi, Canva)
+- Stata (statistics and data science)
+- R, RStudio, R Markdown
+- Python (basic)
+
+### Languages
+- **Uzbek** — Native
+- **English** — C1
+- **Russian** — Listening B1, Reading B1, Writing A2, Spoken Production A2, Spoken Interaction B1
+
+### Honors and Awards
+- **2023** — Presidential scholarship of the Republic of Uzbekistan  
+  Ministry of Higher and Secondary Special Education of the Republic of Uzbekistan
+- **2022** — State scholarship named after “Islam Karimov”  
+  Ministry of Higher and Secondary Special Education of the Republic of Uzbekistan
+- **2022** — Registon Scholarship  
+  REGISTON Non-Governmental Educational Centre
+- **2022** — 3rd place at the Republican Science Olympiad in Economics  
+  Tashkent State University of Economics
+- **2021** — Winner, “Innovative Ideas of Young Researchers” International Research Competition  
+  Science and Education LLC (Russia)
+- **2021** — Award of Research and Business Foundation Manager  
+  Global Innovators Festa 2021 (KEIMYUNG University & College)
+- **2022** — Participant, SolBridge International Business Plan Competition  
+  SolBridge International School of Business, Woosong University
+- **2021** — “Future Scientist”  
+  Innovative Development Agency under the Ministry of Higher Education, Science and Innovation
+- **2021** — Winner, 100 Ideas for Uzbekistan  
+  Youth Affairs Agency
+
+### Certificates
+- **GRE** (valid `30/06/2023 – 30/06/2028`)  
+  Verbal Reasoning: 168/170 (98th percentile)  
+  Quantitative Reasoning: 168/170 (87th percentile)  
+  Analytical Writing: 5/6 (91st percentile)

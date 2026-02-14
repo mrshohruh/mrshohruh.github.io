@@ -11,7 +11,7 @@ toc: false
 I build projects at the intersection of data, software, and research. This site collects my work, writing, and publications.
 
 :::{.hero-links}
-[View CV](cv.qmd){.btn .btn-primary} [Projects](projects.qmd){.btn .btn-outline}
+[View CV](cv.qmd){.btn .btn-primary} [Projects](projects.qmd){.btn .btn-outline} [Telegram](https://t.me/Iqtisodchiroq){.btn .btn-outline}
 :::
 :::
 
