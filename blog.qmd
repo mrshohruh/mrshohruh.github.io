@@ -1,0 +1,9 @@
+---
+title: "Blog"
+---
+
+## Latest Posts
+
+This section will host my posts and notes.
+
+- Coming soon.

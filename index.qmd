@@ -1,0 +1,42 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+# Shokhrukhkhon Nishonkulov
+**Master of Science student in University of Bonn**
+
+I build projects at the intersection of data, software, and research. This site collects my work, writing, and publications.
+
+:::{.hero-links}
+[View CV](cv.qmd){.btn .btn-primary} [Projects](projects.qmd){.btn .btn-outline}
+:::
+:::
+
+---
+
+## Highlights
+
+::: {.grid}
+:::{.card}
+### Projects
+Applied work, prototypes, and experiments.
+:::
+:::{.card}
+### Publications
+Research outputs and academic writing.
+:::
+:::{.card}
+### Blog
+Notes, tutorials, and ideas.
+:::
+:::
+
+---
+
+## Quick Links
+
+- [About](about.qmd)
+- [Contact](contact.qmd)

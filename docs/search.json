@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "This section will host my posts and notes.\n\nComing soon."
+  },
+  {
+    "objectID": "blog.html#latest-posts",
+    "href": "blog.html#latest-posts",
+    "title": "Blog",
+    "section": "",
+    "text": "This section will host my posts and notes.\n\nComing soon."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am Shokhrukhkhon Nishonkulov, a Master of Science student at the University of Bonn. My interests include data-driven systems, software engineering, and applied research.\nThis site is a home for my projects, publications, and technical writing."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shokhrukhkhon Nishonkulov",
+    "section": "",
+    "text": "Master of Science student in University of Bonn\nI build projects at the intersection of data, software, and research. This site collects my work, writing, and publications.\n\nView CV Projects"
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Shokhrukhkhon Nishonkulov",
+    "section": "Highlights",
+    "text": "Highlights\n\n\nProjects\nApplied work, prototypes, and experiments.\n\n\nPublications\nResearch outputs and academic writing.\n\n\nBlog\nNotes, tutorials, and ideas."
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Shokhrukhkhon Nishonkulov",
+    "section": "Quick Links",
+    "text": "Quick Links\n\nAbout\nContact"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "You can reach me here:\n\nGitHub: github.com/your-username\nLinkedIn: linkedin.com/in/your-handle\nTelegram: t.me/your-handle"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Add short descriptions of your most important projects here.\n\n\n\nOne-line summary of the problem and your approach.\nTech stack or key methods.\nLink: add a GitHub or demo URL."
+  },
+  {
+    "objectID": "projects.html#selected-projects",
+    "href": "projects.html#selected-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Add short descriptions of your most important projects here.\n\n\n\nOne-line summary of the problem and your approach.\nTech stack or key methods.\nLink: add a GitHub or demo URL."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "List your papers, reports, or theses here.\n\nAuthor, Title, Venue, Year."
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "Publications",
+    "section": "",
+    "text": "List your papers, reports, or theses here.\n\nAuthor, Title, Venue, Year."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Add your education, experience, and skills here.\n\n\n\nM.Sc., University of Bonn\n\n\n\n\n\nRole, Organization, Dates\n\n\n\n\n\nProgramming, Tools, Research Methods"
+  },
+  {
+    "objectID": "cv.html#curriculum-vitae",
+    "href": "cv.html#curriculum-vitae",
+    "title": "CV",
+    "section": "",
+    "text": "Add your education, experience, and skills here.\n\n\n\nM.Sc., University of Bonn\n\n\n\n\n\nRole, Organization, Dates\n\n\n\n\n\nProgramming, Tools, Research Methods"
+  }
+]

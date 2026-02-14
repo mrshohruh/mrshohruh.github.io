@@ -1,0 +1,9 @@
+---
+title: "Publications"
+---
+
+## Publications
+
+List your papers, reports, or theses here.
+
+- Author, Title, Venue, Year.

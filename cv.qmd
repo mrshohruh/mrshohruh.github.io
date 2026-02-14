@@ -1,0 +1,16 @@
+---
+title: "CV"
+---
+
+## Curriculum Vitae
+
+Add your education, experience, and skills here.
+
+### Education
+- M.Sc., University of Bonn
+
+### Experience
+- Role, Organization, Dates
+
+### Skills
+- Programming, Tools, Research Methods

@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+I am **Shokhrukhkhon Nishonkulov**, a Master of Science student at the University of Bonn. My interests include data-driven systems, software engineering, and applied research.
+
+This site is a home for my projects, publications, and technical writing.

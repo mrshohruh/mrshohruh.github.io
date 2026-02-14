@@ -1,0 +1,12 @@
+---
+title: "Projects"
+---
+
+## Selected Projects
+
+Add short descriptions of your most important projects here.
+
+### Project Name
+- One-line summary of the problem and your approach.
+- Tech stack or key methods.
+- Link: add a GitHub or demo URL.
