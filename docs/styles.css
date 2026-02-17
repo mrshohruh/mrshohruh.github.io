@@ -99,6 +99,32 @@ h1, h2, h3, h4, h5 {
   border: 1px solid rgba(16, 20, 23, 0.06);
 }
 
+.about-wrap {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.about-photo {
+  flex: 0 0 220px;
+  max-width: 260px;
+}
+
+.about-photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 18px;
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(16, 20, 23, 0.08);
+}
+
+.about-text {
+  flex: 1 1 520px;
+  min-width: 360px;
+  max-width: 100%;
+}
+
 a {
   color: var(--accent);
 }
