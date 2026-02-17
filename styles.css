@@ -33,10 +33,20 @@ h1, h2, h3, h4, h5 {
 }
 
 .hero-grid {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(220px, 360px);
+  display: flex;
+  flex-wrap: wrap;
   gap: 2rem;
   align-items: center;
+}
+
+.hero-text {
+  flex: 1 1 360px;
+  min-width: 280px;
+}
+
+.hero-photo {
+  flex: 0 0 320px;
+  max-width: 360px;
 }
 
 .hero-photo img {
@@ -99,6 +109,11 @@ a {
   }
 
   .hero-grid {
-    grid-template-columns: 1fr;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .hero-photo {
+    max-width: 100%;
   }
 }
