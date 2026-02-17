@@ -53,14 +53,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Add short descriptions of your most important projects here.\n\n\n\nOne-line summary of the problem and your approach.\nTech stack or key methods.\nLink: add a GitHub or demo URL."
+    "text": "Focus: finite-sample inference for Double LASSO in high-dimensional linear models.\nMethod: Monte Carlo simulations across Gaussian, heavy-tailed, and approximate-sparse DGPs; evaluates coverage, interval length, bias, and RMSE.\nKey finding: plug-in penalties deliver near-nominal coverage; heavy tails widen intervals; OLS becomes unstable as dimensionality approaches sample size.\nTools: Python, Quarto.\nGitHub: https://github.com/mrshohruh/Double_Lasso"
   },
   {
     "objectID": "projects.html#selected-projects",
     "href": "projects.html#selected-projects",
     "title": "Projects",
     "section": "",
-    "text": "Add short descriptions of your most important projects here.\n\n\n\nOne-line summary of the problem and your approach.\nTech stack or key methods.\nLink: add a GitHub or demo URL."
+    "text": "Focus: finite-sample inference for Double LASSO in high-dimensional linear models.\nMethod: Monte Carlo simulations across Gaussian, heavy-tailed, and approximate-sparse DGPs; evaluates coverage, interval length, bias, and RMSE.\nKey finding: plug-in penalties deliver near-nominal coverage; heavy tails widen intervals; OLS becomes unstable as dimensionality approaches sample size.\nTools: Python, Quarto.\nGitHub: https://github.com/mrshohruh/Double_Lasso"
   },
   {
     "objectID": "publications.html",

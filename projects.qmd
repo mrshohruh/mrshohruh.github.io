@@ -4,9 +4,9 @@ title: "Projects"
 
 ## Selected Projects
 
-Add short descriptions of your most important projects here.
-
-### Project Name
-- One-line summary of the problem and your approach.
-- Tech stack or key methods.
-- Link: add a GitHub or demo URL.
+### Evaluating the Confidence-Interval Performance of the Double LASSO Estimator
+- Focus: finite-sample inference for Double LASSO in high-dimensional linear models.
+- Method: Monte Carlo simulations across Gaussian, heavy-tailed, and approximate-sparse DGPs; evaluates coverage, interval length, bias, and RMSE.
+- Key finding: plug-in penalties deliver near-nominal coverage; heavy tails widen intervals; OLS becomes unstable as dimensionality approaches sample size.
+- Tools: Python, Quarto.
+- GitHub: https://github.com/mrshohruh/Double_Lasso
