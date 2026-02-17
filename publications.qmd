@@ -8,5 +8,7 @@ title: "Publications"
   [doi.org/10.1007/s11135-026-02619-y](https://doi.org/10.1007/s11135-026-02619-y)
 - **2023** — *Econometric Analysis of the Impact of Innovative Development of Business Entities on Economic Growth on the Example of Uzbekistan*  
   [niet.uz/index.php/nj/article/view/300](http://niet.uz/index.php/nj/article/view/300)
+- **2023** — *Risk Analysis of Foreign Direct Investments in Innovative Projects: Uzbekistan*  
+  [ares.uz/uz/maqola-sahifasi/risk-analysis-foreign-direct-investments-innovative-projects-uzbekistan](https://www.ares.uz/uz/maqola-sahifasi/risk-analysis-foreign-direct-investments-innovative-projects-uzbekistan)
 - **2022** — *Blockchain Technology for Small Businesses*  
   [ijeais.org/wp-content/uploads/2022/2/IJEAIS220211.pdf](http://ijeais.org/wp-content/uploads/2022/2/IJEAIS220211.pdf)
