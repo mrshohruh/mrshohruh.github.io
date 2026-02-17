@@ -32,6 +32,21 @@ h1, h2, h3, h4, h5 {
   padding: 5rem 0 3rem 0;
 }
 
+.hero-grid {
+  display: grid;
+  grid-template-columns: minmax(220px, 360px) minmax(0, 1fr);
+  gap: 2rem;
+  align-items: center;
+}
+
+.hero-photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 20px;
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(16, 20, 23, 0.08);
+}
+
 .hero h1 {
   font-size: clamp(2.4rem, 4vw, 4.2rem);
   margin-bottom: 0.5rem;
@@ -81,5 +96,9 @@ a {
 @media (max-width: 576px) {
   .hero {
     padding: 3rem 0 2rem 0;
+  }
+
+  .hero-grid {
+    grid-template-columns: 1fr;
   }
 }
