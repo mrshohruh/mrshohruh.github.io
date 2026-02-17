@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5 {
 
 .hero-grid {
   display: grid;
-  grid-template-columns: minmax(220px, 360px) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr) minmax(220px, 360px);
   gap: 2rem;
   align-items: center;
 }

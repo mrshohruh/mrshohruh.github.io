@@ -6,9 +6,6 @@ toc: false
 
 ::: {.hero}
 ::: {.hero-grid}
-:::{.hero-photo}
-![](assets/profile.jpg){fig-alt="Shokhrukhkhon Nishonkulov" width="360"}
-:::
 :::{.hero-text}
 # Shokhrukhkhon Nishonkulov
 **Master of Science student in University of Bonn**
@@ -18,6 +15,9 @@ I build projects at the intersection of data, software, and research. This site 
 :::{.hero-links}
 [View CV](cv.qmd){.btn .btn-primary} [Projects](projects.qmd){.btn .btn-outline} [Telegram](https://t.me/Iqtisodchiroq){.btn .btn-outline}
 :::
+:::
+:::{.hero-photo}
+![](assets/profile.jpg){fig-alt="Shokhrukhkhon Nishonkulov" width="360"}
 :::
 :::
 :::
