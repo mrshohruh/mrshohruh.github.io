@@ -1,31 +1,24 @@
 [
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "This section will host my posts and notes.\n\nComing soon."
+    "text": "2026 — Structural drivers and distributional inequality in global renewable energy adoption.\ndoi.org/10.1007/s11135-026-02619-y\n2023 — Econometric Analysis of the Impact of Innovative Development of Business Entities on Economic Growth on the Example of Uzbekistan\nniet.uz/index.php/nj/article/view/300\n2023 — Risk Analysis of Foreign Direct Investments in Innovative Projects: Uzbekistan\nares.uz/uz/maqola-sahifasi/risk-analysis-foreign-direct-investments-innovative-projects-uzbekistan\n2022 — Blockchain Technology for Small Businesses\nijeais.org/wp-content/uploads/2022/2/IJEAIS220211.pdf"
   },
   {
-    "objectID": "blog.html#latest-posts",
-    "href": "blog.html#latest-posts",
-    "title": "Blog",
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "Publications",
     "section": "",
-    "text": "This section will host my posts and notes.\n\nComing soon."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About\nMy name is Shokhrukhkhon Nishonkulov. For me, economics is less a subject than a way of thinking, a discipline that shapes how I frame problems, structure ideas, and try to make sense of the world.\nMy path began at Kokand University in Uzbekistan, where I earned my undergraduate degree in Economics. It was there that a passing curiosity about models and data grew into a lasting commitment to careful, structured research. I learned early that good work is not about complexity for its own sake, but about clarity: asking precise questions and answering them honestly.\nThat commitment took me to the University of Bonn, where I completed a Master of Science in Economics. My work there centered on econometrics,particularly high-dimensional methods and causal inference. I studied the finite-sample behavior of the Double LASSO estimator through extensive Monte Carlo simulations, drawn less by whether a method works in theory than by how it holds up in practice, where data are imperfect, assumptions are stretched, and real decisions depend on reliable inference.\nToday I bring that same approach to policy. I work as a Leading Specialist at the Institute of Macroeconomic and Regional Studies under the Cabinet of Ministers of Uzbekistan, where rigorous quantitative analysis meets questions that matter for the country’s development. This is the connection I have always cared about most, between careful method and real-world problems.\nMy broader interests include applied econometrics, institutional economics, public finance, and the design of research tools that make complex methods transparent and reproducible. Outside formal research, I like to build things, a research workflow, a website, a startup idea. I have led and taken part in international startup competitions, building projects from scratch with small teams under tight constraints. Those experiences taught me how to move from an idea to execution, how to make decisions under uncertainty, and how to stay persistent when things do not work the first time.\nAt the core of everything is a simple principle: think clearly, work seriously, and connect theory with the problems that matter. I am drawn to complex questions, but I believe the way through them is straightforward, think carefully, test honestly, and build patiently."
+    "text": "2026 — Structural drivers and distributional inequality in global renewable energy adoption.\ndoi.org/10.1007/s11135-026-02619-y\n2023 — Econometric Analysis of the Impact of Innovative Development of Business Entities on Economic Growth on the Example of Uzbekistan\nniet.uz/index.php/nj/article/view/300\n2023 — Risk Analysis of Foreign Direct Investments in Innovative Projects: Uzbekistan\nares.uz/uz/maqola-sahifasi/risk-analysis-foreign-direct-investments-innovative-projects-uzbekistan\n2022 — Blockchain Technology for Small Businesses\nijeais.org/wp-content/uploads/2022/2/IJEAIS220211.pdf"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Shokhrukhkhon Nishonkulov",
     "section": "",
-    "text": "Master of Science student in University of Bonn\nI build projects at the intersection of data, software, and research. This site collects my work, writing, and publications.\n\nView CV Projects Telegram"
+    "text": "Leading Specialist at the Institute of Macroeconomic and Regional Studies under the Cabinet of Ministers of Uzbekistan\nI build projects at the intersection of data, software, and research. This site collects my work, writing, and publications.\n\nView CV Projects Telegram"
   },
   {
     "objectID": "index.html#highlights",
@@ -49,6 +42,41 @@
     "text": "You can reach me here:\n\nEmail: shokhrukhkhonnishonkulov@gmail.com\nLinkedIn: linkedin.com/in/shokhrukhkhon-nishonkulov-b70250210\nGoogle Scholar: scholar.google.com\nGitHub: github.com/mrshohruh\nTelegram: t.me/Iqtisodchiroq"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About\nMy name is Shokhrukhkhon Nishonkulov. For me, economics is less a subject than a way of thinking, a discipline that shapes how I frame problems, structure ideas, and try to make sense of the world.\nMy path began at Kokand University in Uzbekistan, where I earned my undergraduate degree in Economics. It was there that a passing curiosity about models and data grew into a lasting commitment to careful, structured research. I learned early that good work is not about complexity for its own sake, but about clarity: asking precise questions and answering them honestly.\nThat commitment took me to the University of Bonn, where I completed a Master of Science in Economics. My work there centered on econometrics, particularly high-dimensional methods and causal inference. I studied the finite-sample behavior of the Double LASSO estimator through extensive Monte Carlo simulations, drawn less by whether a method works in theory than by how it holds up in practice, where data are imperfect, assumptions are stretched, and real decisions depend on reliable inference.\nToday I bring that same approach to policy. I work as a Leading Specialist at the Institute of Macroeconomic and Regional Studies under the Cabinet of Ministers of Uzbekistan, where rigorous quantitative analysis meets questions that matter for the country’s development. This is the connection I have always cared about most, between careful method and real-world problems.\nMy broader interests include applied econometrics, institutional economics, public finance, and the design of research tools that make complex methods transparent and reproducible. Outside formal research, I like to build things, a research workflow, a website, a startup idea. I have led and taken part in international startup competitions, building projects from scratch with small teams under tight constraints. Those experiences taught me how to move from an idea to execution, how to make decisions under uncertainty, and how to stay persistent when things do not work the first time.\nAt the core of everything is a simple principle: think clearly, work seriously, and connect theory with the problems that matter. I am drawn to complex questions, but I believe the way through them is straightforward, think carefully, test honestly, and build patiently."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "This section will host my posts and notes.\n\nComing soon."
+  },
+  {
+    "objectID": "blog.html#latest-posts",
+    "href": "blog.html#latest-posts",
+    "title": "Blog",
+    "section": "",
+    "text": "This section will host my posts and notes.\n\nComing soon."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "M.Sc. in Economics, University of Bonn (Bonn, Germany) — 10/2024 – 09/2026\nFinal grade: 1.0 (expected)\nB.A. in Economics, Kokand University (Kokand, Uzbekistan) — 10/2020 – 07/2024\nFinal grade: 93\nGeneral Secondary Education, 11-school (Kokand, Uzbekistan) — 03/09/2009 – 13/06/2020\nFinal grade: 100\n\n\n\n\n\nLeading Specialist, Institute of Macroeconomic and Regional Studies under the Cabinet of Ministers of Uzbekistan — 10/2026 – Present\nConducting research and analysis on macroeconomic and regional development issues; preparing reports and policy recommendations.\nHead Coordinator, Incubation and Acceleration Center (IT Park at Kokand University) — 02/2023 – 02/2024\nLearning and supporting startup projects of university students; developing business projects.\nOffice Assistant, Department of Digital Technologies and Mathematics, Kokand University — 11/2021 – 09/2022\nCollecting necessary documents from department staff; implementing dean’s and rector’s orders.\n\n\n\n\n\nResearch and analytical skills\nOrganizational and planning skills\nStata (statistics and data science)\nR, RStudio, R Markdown\nPython (basic)\nMicrosoft Office (Word, Excel, PowerPoint, Access)\nVideo conferencing (Zoom, Teams, Skype, Webex) — Advanced\nGoogle Suite (Docs, Slides, Forms, Sheets, Drive)\nPresentation platforms (PowerPoint, Prezi, Canva)\n\n\n\n\n\nUzbek — Native\nEnglish — C1\nRussian — Listening B1, Reading A2, Writing A2, Spoken Production A2, Spoken Interaction B1\n\n\n\n\n\n2024 - “El-yurt umidi” Foundation scholarship “El-yurt Umidi” Foundation for the Training of Promising Personnel under the President of the Republic of Uzbekistan\n2023 — Presidential scholarship of the Republic of Uzbekistan\nMinistry of Higher and Secondary Special Education of the Republic of Uzbekistan\n2022 — State scholarship named after “Islam Karimov”\nMinistry of Higher and Secondary Special Education of the Republic of Uzbekistan\n2022 — Registon Scholarship\nREGISTON Non-Governmental Educational Centre\n2022 — 3rd place at the Republican Science Olympiad in Economics\nTashkent State University of Economics\n2021 — Winner, “Innovative Ideas of Young Researchers” International Research Competition\nScience and Education LLC (Russia)\n2021 — Award of Research and Business Foundation Manager\nGlobal Innovators Festa 2021 (KEIMYUNG University & College)\n2022 — Participant, SolBridge International Business Plan Competition\nSolBridge International School of Business, Woosong University\n2021 — “Future Scientist”\nInnovative Development Agency under the Ministry of Higher Education, Science and Innovation\n2021 — Winner, 100 Ideas for Uzbekistan\nYouth Affairs Agency\n\n\n\n\n\nGRE (valid 30/06/2023 – 30/06/2028)\nVerbal Reasoning: 168/170 (98th percentile)\nQuantitative Reasoning: 168/170 (87th percentile)\nAnalytical Writing: 5/6 (91st percentile)"
+  },
+  {
+    "objectID": "cv.html#curriculum-vitae",
+    "href": "cv.html#curriculum-vitae",
+    "title": "CV",
+    "section": "",
+    "text": "M.Sc. in Economics, University of Bonn (Bonn, Germany) — 10/2024 – 09/2026\nFinal grade: 1.0 (expected)\nB.A. in Economics, Kokand University (Kokand, Uzbekistan) — 10/2020 – 07/2024\nFinal grade: 93\nGeneral Secondary Education, 11-school (Kokand, Uzbekistan) — 03/09/2009 – 13/06/2020\nFinal grade: 100\n\n\n\n\n\nLeading Specialist, Institute of Macroeconomic and Regional Studies under the Cabinet of Ministers of Uzbekistan — 10/2026 – Present\nConducting research and analysis on macroeconomic and regional development issues; preparing reports and policy recommendations.\nHead Coordinator, Incubation and Acceleration Center (IT Park at Kokand University) — 02/2023 – 02/2024\nLearning and supporting startup projects of university students; developing business projects.\nOffice Assistant, Department of Digital Technologies and Mathematics, Kokand University — 11/2021 – 09/2022\nCollecting necessary documents from department staff; implementing dean’s and rector’s orders.\n\n\n\n\n\nResearch and analytical skills\nOrganizational and planning skills\nStata (statistics and data science)\nR, RStudio, R Markdown\nPython (basic)\nMicrosoft Office (Word, Excel, PowerPoint, Access)\nVideo conferencing (Zoom, Teams, Skype, Webex) — Advanced\nGoogle Suite (Docs, Slides, Forms, Sheets, Drive)\nPresentation platforms (PowerPoint, Prezi, Canva)\n\n\n\n\n\nUzbek — Native\nEnglish — C1\nRussian — Listening B1, Reading A2, Writing A2, Spoken Production A2, Spoken Interaction B1\n\n\n\n\n\n2024 - “El-yurt umidi” Foundation scholarship “El-yurt Umidi” Foundation for the Training of Promising Personnel under the President of the Republic of Uzbekistan\n2023 — Presidential scholarship of the Republic of Uzbekistan\nMinistry of Higher and Secondary Special Education of the Republic of Uzbekistan\n2022 — State scholarship named after “Islam Karimov”\nMinistry of Higher and Secondary Special Education of the Republic of Uzbekistan\n2022 — Registon Scholarship\nREGISTON Non-Governmental Educational Centre\n2022 — 3rd place at the Republican Science Olympiad in Economics\nTashkent State University of Economics\n2021 — Winner, “Innovative Ideas of Young Researchers” International Research Competition\nScience and Education LLC (Russia)\n2021 — Award of Research and Business Foundation Manager\nGlobal Innovators Festa 2021 (KEIMYUNG University & College)\n2022 — Participant, SolBridge International Business Plan Competition\nSolBridge International School of Business, Woosong University\n2021 — “Future Scientist”\nInnovative Development Agency under the Ministry of Higher Education, Science and Innovation\n2021 — Winner, 100 Ideas for Uzbekistan\nYouth Affairs Agency\n\n\n\n\n\nGRE (valid 30/06/2023 – 30/06/2028)\nVerbal Reasoning: 168/170 (98th percentile)\nQuantitative Reasoning: 168/170 (87th percentile)\nAnalytical Writing: 5/6 (91st percentile)"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
@@ -61,33 +89,5 @@
     "title": "Projects",
     "section": "",
     "text": "Focus: finite-sample inference for Double LASSO in high-dimensional linear models.\nMethod: Monte Carlo simulations across Gaussian, heavy-tailed, and approximate-sparse DGPs; evaluates coverage, interval length, bias, and RMSE.\nKey finding: plug-in penalties deliver near-nominal coverage; heavy tails widen intervals; OLS becomes unstable as dimensionality approaches sample size.\nTools: Python, Quarto.\nGitHub: https://github.com/mrshohruh/Double_Lasso"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "2026 — Structural drivers and distributional inequality in global renewable energy adoption.\ndoi.org/10.1007/s11135-026-02619-y\n2023 — Econometric Analysis of the Impact of Innovative Development of Business Entities on Economic Growth on the Example of Uzbekistan\nniet.uz/index.php/nj/article/view/300\n2023 — Risk Analysis of Foreign Direct Investments in Innovative Projects: Uzbekistan\nares.uz/uz/maqola-sahifasi/risk-analysis-foreign-direct-investments-innovative-projects-uzbekistan\n2022 — Blockchain Technology for Small Businesses\nijeais.org/wp-content/uploads/2022/2/IJEAIS220211.pdf"
-  },
-  {
-    "objectID": "publications.html#publications",
-    "href": "publications.html#publications",
-    "title": "Publications",
-    "section": "",
-    "text": "2026 — Structural drivers and distributional inequality in global renewable energy adoption.\ndoi.org/10.1007/s11135-026-02619-y\n2023 — Econometric Analysis of the Impact of Innovative Development of Business Entities on Economic Growth on the Example of Uzbekistan\nniet.uz/index.php/nj/article/view/300\n2023 — Risk Analysis of Foreign Direct Investments in Innovative Projects: Uzbekistan\nares.uz/uz/maqola-sahifasi/risk-analysis-foreign-direct-investments-innovative-projects-uzbekistan\n2022 — Blockchain Technology for Small Businesses\nijeais.org/wp-content/uploads/2022/2/IJEAIS220211.pdf"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "M.Sc. in Economics, University of Bonn (Bonn, Germany) — 07/10/2024 – Present\nB.A. in Economics, Kokand University (Kokand, Uzbekistan) — 10/2020 – 07/2024\nFinal grade: 93\nGeneral Secondary Education, 11-school (Kokand, Uzbekistan) — 03/09/2009 – 13/06/2020\nFinal grade: 100\n\n\n\n\n\nHead Coordinator, Incubation and Acceleration Center (IT Park at Kokand University) — 02/2023 – 02/2024\nLearning and supporting startup projects of university students; developing business projects.\nOffice Assistant, Department of Digital Technologies and Mathematics, Kokand University — 11/2021 – 09/2022\nCollecting necessary documents from department staff; implementing dean’s and rector’s orders.\n\n\n\n\n\nMicrosoft Office (Word, Excel, PowerPoint, Access)\nResearch and analytical skills\nVideo conferencing (Zoom, Teams, Skype, Webex) — Advanced\nGoogle Suite (Docs, Slides, Forms, Sheets, Drive)\nOrganizational and planning skills\nPresentation platforms (PowerPoint, Prezi, Canva)\nStata (statistics and data science)\nR, RStudio, R Markdown\nPython (basic)\n\n\n\n\n\nUzbek — Native\nEnglish — C1\nRussian — Listening B1, Reading B1, Writing A2, Spoken Production A2, Spoken Interaction B1\n\n\n\n\n\n2023 — Presidential scholarship of the Republic of Uzbekistan\nMinistry of Higher and Secondary Special Education of the Republic of Uzbekistan\n2022 — State scholarship named after “Islam Karimov”\nMinistry of Higher and Secondary Special Education of the Republic of Uzbekistan\n2022 — Registon Scholarship\nREGISTON Non-Governmental Educational Centre\n2022 — 3rd place at the Republican Science Olympiad in Economics\nTashkent State University of Economics\n2021 — Winner, “Innovative Ideas of Young Researchers” International Research Competition\nScience and Education LLC (Russia)\n2021 — Award of Research and Business Foundation Manager\nGlobal Innovators Festa 2021 (KEIMYUNG University & College)\n2022 — Participant, SolBridge International Business Plan Competition\nSolBridge International School of Business, Woosong University\n2021 — “Future Scientist”\nInnovative Development Agency under the Ministry of Higher Education, Science and Innovation\n2021 — Winner, 100 Ideas for Uzbekistan\nYouth Affairs Agency\n\n\n\n\n\nGRE (valid 30/06/2023 – 30/06/2028)\nVerbal Reasoning: 168/170 (98th percentile)\nQuantitative Reasoning: 168/170 (87th percentile)\nAnalytical Writing: 5/6 (91st percentile)"
-  },
-  {
-    "objectID": "cv.html#curriculum-vitae",
-    "href": "cv.html#curriculum-vitae",
-    "title": "CV",
-    "section": "",
-    "text": "M.Sc. in Economics, University of Bonn (Bonn, Germany) — 07/10/2024 – Present\nB.A. in Economics, Kokand University (Kokand, Uzbekistan) — 10/2020 – 07/2024\nFinal grade: 93\nGeneral Secondary Education, 11-school (Kokand, Uzbekistan) — 03/09/2009 – 13/06/2020\nFinal grade: 100\n\n\n\n\n\nHead Coordinator, Incubation and Acceleration Center (IT Park at Kokand University) — 02/2023 – 02/2024\nLearning and supporting startup projects of university students; developing business projects.\nOffice Assistant, Department of Digital Technologies and Mathematics, Kokand University — 11/2021 – 09/2022\nCollecting necessary documents from department staff; implementing dean’s and rector’s orders.\n\n\n\n\n\nMicrosoft Office (Word, Excel, PowerPoint, Access)\nResearch and analytical skills\nVideo conferencing (Zoom, Teams, Skype, Webex) — Advanced\nGoogle Suite (Docs, Slides, Forms, Sheets, Drive)\nOrganizational and planning skills\nPresentation platforms (PowerPoint, Prezi, Canva)\nStata (statistics and data science)\nR, RStudio, R Markdown\nPython (basic)\n\n\n\n\n\nUzbek — Native\nEnglish — C1\nRussian — Listening B1, Reading B1, Writing A2, Spoken Production A2, Spoken Interaction B1\n\n\n\n\n\n2023 — Presidential scholarship of the Republic of Uzbekistan\nMinistry of Higher and Secondary Special Education of the Republic of Uzbekistan\n2022 — State scholarship named after “Islam Karimov”\nMinistry of Higher and Secondary Special Education of the Republic of Uzbekistan\n2022 — Registon Scholarship\nREGISTON Non-Governmental Educational Centre\n2022 — 3rd place at the Republican Science Olympiad in Economics\nTashkent State University of Economics\n2021 — Winner, “Innovative Ideas of Young Researchers” International Research Competition\nScience and Education LLC (Russia)\n2021 — Award of Research and Business Foundation Manager\nGlobal Innovators Festa 2021 (KEIMYUNG University & College)\n2022 — Participant, SolBridge International Business Plan Competition\nSolBridge International School of Business, Woosong University\n2021 — “Future Scientist”\nInnovative Development Agency under the Ministry of Higher Education, Science and Innovation\n2021 — Winner, 100 Ideas for Uzbekistan\nYouth Affairs Agency\n\n\n\n\n\nGRE (valid 30/06/2023 – 30/06/2028)\nVerbal Reasoning: 168/170 (98th percentile)\nQuantitative Reasoning: 168/170 (87th percentile)\nAnalytical Writing: 5/6 (91st percentile)"
   }
 ]

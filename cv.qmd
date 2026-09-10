@@ -5,35 +5,40 @@ title: "CV"
 ## Curriculum Vitae
 
 ### Education
-- **M.Sc. in Economics**, University of Bonn (Bonn, Germany) — `07/10/2024 – Present`
+- **M.Sc. in Economics**, University of Bonn (Bonn, Germany) — `10/2024 – 09/2026`  
+  Final grade: 1.0 (expected)
 - **B.A. in Economics**, Kokand University (Kokand, Uzbekistan) — `10/2020 – 07/2024`  
   Final grade: 93
 - **General Secondary Education**, 11-school (Kokand, Uzbekistan) — `03/09/2009 – 13/06/2020`  
   Final grade: 100
 
 ### Work Experience
+- **Leading Specialist**, Institute of Macroeconomic and Regional Studies under the Cabinet of Ministers of Uzbekistan — `10/2026 – Present`  
+  Conducting research and analysis on macroeconomic and regional development issues; preparing reports and policy recommendations.
 - **Head Coordinator**, Incubation and Acceleration Center (IT Park at Kokand University) — `02/2023 – 02/2024`  
   Learning and supporting startup projects of university students; developing business projects.
 - **Office Assistant**, Department of Digital Technologies and Mathematics, Kokand University — `11/2021 – 09/2022`  
   Collecting necessary documents from department staff; implementing dean’s and rector’s orders.
 
 ### Skills
-- Microsoft Office (Word, Excel, PowerPoint, Access)
 - Research and analytical skills
-- Video conferencing (Zoom, Teams, Skype, Webex) — Advanced
-- Google Suite (Docs, Slides, Forms, Sheets, Drive)
 - Organizational and planning skills
-- Presentation platforms (PowerPoint, Prezi, Canva)
 - Stata (statistics and data science)
 - R, RStudio, R Markdown
 - Python (basic)
+- Microsoft Office (Word, Excel, PowerPoint, Access)
+- Video conferencing (Zoom, Teams, Skype, Webex) — Advanced
+- Google Suite (Docs, Slides, Forms, Sheets, Drive)
+- Presentation platforms (PowerPoint, Prezi, Canva)
 
 ### Languages
 - **Uzbek** — Native
 - **English** — C1
-- **Russian** — Listening B1, Reading B1, Writing A2, Spoken Production A2, Spoken Interaction B1
+- **Russian** — Listening B1, Reading A2, Writing A2, Spoken Production A2, Spoken Interaction B1
 
 ### Honors and Awards
+- **2024** - "El-yurt umidi" Foundation scholarship
+"El-yurt Umidi" Foundation for the Training of Promising Personnel under the President of the Republic of Uzbekistan
 - **2023** — Presidential scholarship of the Republic of Uzbekistan  
   Ministry of Higher and Secondary Special Education of the Republic of Uzbekistan
 - **2022** — State scholarship named after “Islam Karimov”  

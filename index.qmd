@@ -8,7 +8,7 @@ toc: false
 ::: {.hero-grid}
 :::{.hero-text}
 # Shokhrukhkhon Nishonkulov
-**Master of Science student in University of Bonn**
+**Leading Specialist at the Institute of Macroeconomic and Regional Studies under the Cabinet of Ministers of Uzbekistan**
 
 I build projects at the intersection of data, software, and research. This site collects my work, writing, and publications.
 
