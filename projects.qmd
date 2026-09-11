@@ -10,3 +10,10 @@ title: "Projects"
 - Key finding: plug-in penalties deliver near-nominal coverage; heavy tails widen intervals; OLS becomes unstable as dimensionality approaches sample size.
 - Tools: Python, Quarto.
 - GitHub: https://github.com/mrshohruh/Double_Lasso
+
+### Uzbekistan Housing Market Research Agent
+- Focus: autonomous research agent that turns raw housing data into a full market and policy report.
+- Method: ingests JSON, SQL, CSV, Excel, or live database inputs; infers column semantics in English, Russian, and Uzbek; computes cross-sectional and time-series statistics (growth, seasonality, structural breaks, regional convergence); identifies drivers via correlation and multivariate OLS; and researches the policy and macroeconomic backdrop on the web.
+- Key finding: produces a 13-section Word report with charts, tables, a dated policy timeline, and evidence-backed recommendations, running fully offline or with Claude for narrative synthesis.
+- Tools: Python, pandas, Streamlit, Anthropic Claude API.
+- GitHub: https://github.com/mrshohruh/Economic-Research-Agent
