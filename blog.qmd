@@ -1,9 +1,19 @@
 ---
 title: "Blog"
+toc: false
+page-layout: full
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: true
+  date-format: "D MMMM YYYY"
+  page-size: 10
+  image-height: 180px
+  fields: [image, date, title, description, categories]
 ---
 
-## Latest Posts
-
-This section will host my posts and notes.
-
-- Posts coming soon.
+Notes and short commentary on economics, posted first on my Telegram channel
+[\@Iqtisodchiroq](https://t.me/Iqtisodchiroq) and mirrored here automatically.

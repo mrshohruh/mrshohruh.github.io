@@ -1,0 +1,56 @@
+name: Sync Telegram posts to blog
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes (GitHub may delay scheduled runs a bit)
+  workflow_dispatch:          # adds a "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: telegram-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch new Telegram posts
+        run: |
+          pip install --quiet requests beautifulsoup4 lxml
+          python scripts/sync_telegram.py
+
+      - name: Anything new?
+        id: changes
+        run: |
+          if [ -n "$(git status --porcelain posts)" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "No new or edited posts."
+          fi
+
+      - uses: quarto-dev/quarto-actions/setup@v2
+        if: steps.changes.outputs.changed == 'true'
+        with:
+          version: 1.10.18
+
+      - name: Render site into docs/
+        if: steps.changes.outputs.changed == 'true'
+        run: quarto render
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add posts docs
+          git commit -m "Sync posts from Telegram"
+          git pull --rebase
+          git push

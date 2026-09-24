@@ -1,0 +1,8 @@
+# Shared settings for every blog post (hand-written ones too).
+toc: false
+title-block-categories: true
+date-format: "D MMMM YYYY"
+# The description is the listing teaser; don't repeat it under the post title.
+include-in-header:
+  text: |
+    <style>#title-block-header .description { display: none; }</style>
