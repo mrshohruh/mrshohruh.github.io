@@ -1,11 +1,32 @@
 ---
 title: "Contact"
+subtitle: "I welcome inquiries about research collaboration and policy analysis."
 ---
 
-You can reach me here:
+::: {.grid .contact-grid}
+:::{.card}
+[Email]{.label}
 
-- Email: [shokhrukhkhonnishonkulov@gmail.com](mailto:shokhrukhkhonnishonkulov@gmail.com)
-- LinkedIn: [linkedin.com/in/shokhrukhkhon-nishonkulov-b70250210](https://www.linkedin.com/in/shokhrukhkhon-nishonkulov-b70250210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- Google Scholar: [scholar.google.com](https://scholar.google.com/citations?hl=ru&user=j_8QOEcAAAAJ)
-- GitHub: [github.com/mrshohruh](https://github.com/mrshohruh)
-- Telegram: [t.me/Iqtisodchiroq](https://t.me/Iqtisodchiroq)
+<i class="bi bi-envelope-fill"></i>[shokhrukhkhonnishonkulov@gmail.com](mailto:shokhrukhkhonnishonkulov@gmail.com)
+:::
+:::{.card}
+[LinkedIn]{.label}
+
+<i class="bi bi-linkedin"></i>[View profile](https://www.linkedin.com/in/shokhrukhkhon-nishonkulov-b70250210)
+:::
+:::{.card}
+[Google Scholar]{.label}
+
+<i class="bi bi-mortarboard-fill"></i>[View citations](https://scholar.google.com/citations?hl=en&user=j_8QOEcAAAAJ)
+:::
+:::{.card}
+[GitHub]{.label}
+
+<i class="bi bi-github"></i>[github.com/mrshohruh](https://github.com/mrshohruh)
+:::
+:::{.card}
+[Telegram]{.label}
+
+<i class="bi bi-telegram"></i>[t.me/Iqtisodchiroq](https://t.me/Iqtisodchiroq)
+:::
+:::

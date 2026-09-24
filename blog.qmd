@@ -6,4 +6,4 @@ title: "Blog"
 
 This section will host my posts and notes.
 
-- Coming soon.
+- Posts coming soon.

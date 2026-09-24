@@ -1,65 +1,206 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
+subtitle: "Shohruhxon Nishonqulov · Economist"
 ---
 
-## Curriculum Vitae
+## Professional Experience
 
-### Education
-- **M.Sc. in Economics**, University of Bonn (Bonn, Germany) — `10/2024 – 09/2026`  
-  Final grade: 1.0 (expected)
-- **B.A. in Economics**, Kokand University (Kokand, Uzbekistan) — `10/2020 – 07/2024`  
-  Final grade: 93
-- **General Secondary Education**, 11-school (Kokand, Uzbekistan) — `03/09/2009 – 13/06/2020`  
-  Final grade: 100
+::: {.entry}
 
-### Work Experience
-- **Leading Specialist**, Institute of Macroeconomic and Regional Studies under the Cabinet of Ministers of Uzbekistan — `10/2026 – Present`  
-  Conducting research and analysis on macroeconomic and regional development issues; preparing reports and policy recommendations.
-- **Head Coordinator**, Incubation and Acceleration Center (IT Park at Kokand University) — `02/2023 – 02/2024`  
-  Learning and supporting startup projects of university students; developing business projects.
-- **Office Assistant**, Department of Digital Technologies and Mathematics, Kokand University — `11/2021 – 09/2022`  
-  Collecting necessary documents from department staff; implementing dean’s and rector’s orders.
+[Leading Specialist]{.entry-title}
 
-### Skills
-- Research and analytical skills
-- Organizational and planning skills
-- Stata (statistics and data science)
-- R, RStudio, R Markdown
-- Python (basic)
-- Microsoft Office (Word, Excel, PowerPoint, Access)
-- Video conferencing (Zoom, Teams, Skype, Webex) — Advanced
-- Google Suite (Docs, Slides, Forms, Sheets, Drive)
-- Presentation platforms (PowerPoint, Prezi, Canva)
+[10/2026 – Present]{.entry-date}
 
-### Languages
-- **Uzbek** — Native
-- **English** — C1
-- **Russian** — Listening B1, Reading A2, Writing A2, Spoken Production A2, Spoken Interaction B1
+[Institute of Macroeconomic and Regional Studies under the Cabinet of Ministers of the Republic of Uzbekistan]{.entry-org}
 
-### Honors and Awards
-- **2024** - "El-yurt umidi" Foundation scholarship
-"El-yurt Umidi" Foundation for the Training of Promising Personnel under the President of the Republic of Uzbekistan
-- **2023** — Presidential scholarship of the Republic of Uzbekistan  
-  Ministry of Higher and Secondary Special Education of the Republic of Uzbekistan
-- **2022** — State scholarship named after “Islam Karimov”  
-  Ministry of Higher and Secondary Special Education of the Republic of Uzbekistan
-- **2022** — Registon Scholarship  
-  REGISTON Non-Governmental Educational Centre
-- **2022** — 3rd place at the Republican Science Olympiad in Economics  
-  Tashkent State University of Economics
-- **2021** — Winner, “Innovative Ideas of Young Researchers” International Research Competition  
-  Science and Education LLC (Russia)
-- **2021** — Award of Research and Business Foundation Manager  
-  Global Innovators Festa 2021 (KEIMYUNG University & College)
-- **2022** — Participant, SolBridge International Business Plan Competition  
-  SolBridge International School of Business, Woosong University
-- **2021** — “Future Scientist”  
-  Innovative Development Agency under the Ministry of Higher Education, Science and Innovation
-- **2021** — Winner, 100 Ideas for Uzbekistan  
-  Youth Affairs Agency
+[Research and analysis on macroeconomic and regional development; preparation of analytical reports and policy recommendations.]{.entry-desc}
+:::
 
-### Certificates
-- **GRE** (valid `30/06/2023 – 30/06/2028`)  
-  Verbal Reasoning: 168/170 (98th percentile)  
-  Quantitative Reasoning: 168/170 (87th percentile)  
-  Analytical Writing: 5/6 (91st percentile)
+::: {.entry}
+
+[Head Coordinator]{.entry-title}
+
+[02/2023 – 02/2024]{.entry-date}
+
+[Incubation and Acceleration Center, IT Park at Kokand University]{.entry-org}
+
+[Mentored and supported university student startup projects; developed business projects.]{.entry-desc}
+:::
+
+::: {.entry}
+
+[Office Assistant]{.entry-title}
+
+[11/2021 – 09/2022]{.entry-date}
+
+[Department of Digital Technologies and Mathematics, Kokand University]{.entry-org}
+
+[Administrative support for the department, including documentation and implementation of dean's and rector's orders.]{.entry-desc}
+:::
+
+## Education
+
+::: {.entry}
+
+[M.Sc. in Economics]{.entry-title}
+
+[10/2024 – 09/2026]{.entry-date}
+
+[University of Bonn, Germany]{.entry-org}
+
+[Specialization in econometrics: high-dimensional methods and causal inference. Final grade: 1.0 (expected).]{.entry-desc}
+:::
+
+::: {.entry}
+
+[B.A. in Economics]{.entry-title}
+
+[10/2020 – 07/2024]{.entry-date}
+
+[Kokand University, Uzbekistan]{.entry-org}
+
+[Final grade: 93/100.]{.entry-desc}
+:::
+
+## Honors and Awards
+
+::: {.entry}
+
+[“El-yurt Umidi” Foundation Scholarship]{.entry-title}
+
+[2024]{.entry-date}
+
+[“El-yurt Umidi” Foundation for the Training of Promising Personnel under the President of the Republic of Uzbekistan]{.entry-org}
+:::
+
+::: {.entry}
+
+[Presidential Scholarship of the Republic of Uzbekistan]{.entry-title}
+
+[2023]{.entry-date}
+
+[Ministry of Higher and Secondary Special Education of the Republic of Uzbekistan]{.entry-org}
+:::
+
+::: {.entry}
+
+[State Scholarship named after Islam Karimov]{.entry-title}
+
+[2022]{.entry-date}
+
+[Ministry of Higher and Secondary Special Education of the Republic of Uzbekistan]{.entry-org}
+:::
+
+::: {.entry}
+
+[Registon Scholarship]{.entry-title}
+
+[2022]{.entry-date}
+
+[REGISTON Non-Governmental Educational Centre]{.entry-org}
+:::
+
+::: {.entry}
+
+[3rd Place, Republican Science Olympiad in Economics]{.entry-title}
+
+[2022]{.entry-date}
+
+[Tashkent State University of Economics]{.entry-org}
+:::
+
+::: {.entry}
+
+[Participant, SolBridge International Business Plan Competition]{.entry-title}
+
+[2022]{.entry-date}
+
+[SolBridge International School of Business, Woosong University]{.entry-org}
+:::
+
+::: {.entry}
+
+[Winner, “Innovative Ideas of Young Researchers” International Research Competition]{.entry-title}
+
+[2021]{.entry-date}
+
+[Science and Education LLC (Russia)]{.entry-org}
+:::
+
+::: {.entry}
+
+[Award of Research and Business Foundation Manager]{.entry-title}
+
+[2021]{.entry-date}
+
+[Global Innovators Festa 2021, Keimyung University & College]{.entry-org}
+:::
+
+::: {.entry}
+
+[“Future Scientist”]{.entry-title}
+
+[2021]{.entry-date}
+
+[Innovative Development Agency under the Ministry of Higher Education, Science and Innovation]{.entry-org}
+:::
+
+::: {.entry}
+
+[Winner, 100 Ideas for Uzbekistan]{.entry-title}
+
+[2021]{.entry-date}
+
+[Youth Affairs Agency]{.entry-org}
+:::
+
+## Test Scores
+
+::: {.entry}
+
+[GRE General Test]{.entry-title}
+
+[Valid 06/2023 – 06/2028]{.entry-date}
+
+[Verbal Reasoning 168/170 (98th percentile) · Quantitative Reasoning 168/170 (87th percentile) · Analytical Writing 5.0/6 (91st percentile)]{.entry-org}
+:::
+
+## Skills
+
+::: {.grid}
+:::{.card}
+### Quantitative & Programming
+Stata · R (RStudio, R Markdown) · Python · Quarto
+:::
+:::{.card}
+### Research
+Econometric modelling · Monte Carlo simulation · Policy analysis · Report writing
+:::
+:::{.card}
+### Tools
+Microsoft Office (Excel, Word, PowerPoint, Access) · Google Workspace
+:::
+:::
+
+## Languages
+
+::: {.entry}
+
+[Uzbek]{.entry-title}
+
+[Native]{.entry-date}
+:::
+
+::: {.entry}
+
+[English]{.entry-title}
+
+[C1]{.entry-date}
+:::
+
+::: {.entry}
+
+[Russian]{.entry-title}
+
+[B1 (listening, spoken interaction)]{.entry-date}
+:::

@@ -1,19 +1,33 @@
 ---
 title: "Projects"
+subtitle: "Research software and methodological work"
 ---
 
-## Selected Projects
+::: {.grid .one-col}
+:::{.card}
+[Econometrics · Monte Carlo Simulation]{.eyebrow}
 
 ### Evaluating the Confidence-Interval Performance of the Double LASSO Estimator
-- Focus: finite-sample inference for Double LASSO in high-dimensional linear models.
-- Method: Monte Carlo simulations across Gaussian, heavy-tailed, and approximate-sparse DGPs; evaluates coverage, interval length, bias, and RMSE.
-- Key finding: plug-in penalties deliver near-nominal coverage; heavy tails widen intervals; OLS becomes unstable as dimensionality approaches sample size.
-- Tools: Python, Quarto.
-- GitHub: https://github.com/mrshohruh/Double_Lasso
+
+Finite-sample inference for Double LASSO in high-dimensional linear models.
+
+- **Method:** Monte Carlo simulations across Gaussian, heavy-tailed, and approximately sparse data-generating processes, evaluating coverage, interval length, bias, and RMSE.
+- **Findings:** Plug-in penalties deliver near-nominal coverage; heavy tails widen intervals; OLS becomes unstable as dimensionality approaches the sample size.
+- **Tools:** Python, Quarto
+
+[View repository on GitHub](https://github.com/mrshohruh/Double_Lasso)
+:::
+:::{.card}
+[Research Tools · Housing Economics]{.eyebrow}
 
 ### Uzbekistan Housing Market Research Agent
-- Focus: autonomous research agent that turns raw housing data into a full market and policy report.
-- Method: ingests JSON, SQL, CSV, Excel, or live database inputs; infers column semantics in English, Russian, and Uzbek; computes cross-sectional and time-series statistics (growth, seasonality, structural breaks, regional convergence); identifies drivers via correlation and multivariate OLS; and researches the policy and macroeconomic backdrop on the web.
-- Key finding: produces a 13-section Word report with charts, tables, a dated policy timeline, and evidence-backed recommendations, running fully offline or with Claude for narrative synthesis.
-- Tools: Python, pandas, Streamlit, Anthropic Claude API.
-- GitHub: https://github.com/mrshohruh/Economic-Research-Agent
+
+An autonomous research agent that turns raw housing data into a complete market and policy report.
+
+- **Method:** Ingests JSON, SQL, CSV, Excel, or live database inputs; infers column semantics in English, Russian, and Uzbek; computes cross-sectional and time-series statistics (growth, seasonality, structural breaks, regional convergence); identifies drivers via correlation and multivariate OLS; and researches the policy and macroeconomic context.
+- **Output:** A 13-section Word report with charts, tables, a dated policy timeline, and evidence-based recommendations. Runs fully offline or with Claude for narrative synthesis.
+- **Tools:** Python, pandas, Streamlit, Anthropic Claude API
+
+[View repository on GitHub](https://github.com/mrshohruh/Economic-Research-Agent)
+:::
+:::

@@ -5,38 +5,43 @@ project:
     - .nojekyll
 
 website:
-  title: "Shokhrukhkhon Nishonkulov"
+  title: "Shohruhxon Nishonqulov"
+  description: "Economist and researcher working on applied econometrics, macroeconomic and regional policy in Uzbekistan."
+  site-url: https://mrshohruh.github.io
+  favicon: assets/profile.jpg
+  open-graph: true
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: about.qmd
         text: About
-      - href: projects.qmd
-        text: Projects
       - href: publications.qmd
         text: Publications
-      - href: blog.qmd
-        text: Blog
+      - href: projects.qmd
+        text: Projects
       - href: cv.qmd
         text: CV
       - href: contact.qmd
         text: Contact
     right:
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?hl=en&user=j_8QOEcAAAAJ
+        aria-label: Google Scholar
       - icon: github
         href: https://github.com/mrshohruh
         aria-label: GitHub
       - icon: linkedin
-        href: https://www.linkedin.com/in/shokhrukhkhon-nishonkulov-b70250210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+        href: https://www.linkedin.com/in/shokhrukhkhon-nishonkulov-b70250210
         aria-label: LinkedIn
-      - icon: telegram
-        href: https://t.me/Iqtisodchiroq
-        aria-label: Telegram
+      - icon: envelope-fill
+        href: mailto:shokhrukhkhonnishonkulov@gmail.com
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Shohruhxon Nishonqulov"
+    right: "Built with [Quarto](https://quarto.org)"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
+    smooth-scroll: true

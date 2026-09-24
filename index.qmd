@@ -1,49 +1,74 @@
 ---
-title: ""
+pagetitle: "Shohruhxon Nishonqulov · Economist"
 page-layout: full
-toc: false
 ---
 
 ::: {.hero}
 ::: {.hero-grid}
 :::{.hero-text}
-# Shokhrukhkhon Nishonkulov
-**Leading Specialist at the Institute of Macroeconomic and Regional Studies under the Cabinet of Ministers of Uzbekistan**
+::: {.hero-name}
+Shohruhxon Nishonqulov
+:::
 
-I build projects at the intersection of data, software, and research. This site collects my work, writing, and publications.
+::: {.role}
+Economist · Leading Specialist
+:::
+
+::: {.affiliation}
+Institute of Macroeconomic and Regional Studies under the Cabinet of Ministers of the Republic of Uzbekistan
+:::
+
+::: {.lead-text}
+I am an economist working on applied econometrics and economic policy. My research focuses on high-dimensional methods and causal inference, and on how rigorous quantitative evidence can inform macroeconomic and regional development. I hold an M.Sc. in Economics from the University of Bonn.
+:::
 
 :::{.hero-links}
-[View CV](cv.qmd){.btn .btn-primary} [Projects](projects.qmd){.btn .btn-outline} [Telegram](https://t.me/Iqtisodchiroq){.btn .btn-outline}
+[About me](about.qmd){.btn .btn-primary} [Curriculum Vitae](cv.qmd){.btn .btn-outline} [Publications](publications.qmd){.btn .btn-outline}
 :::
 :::
 :::{.hero-photo}
-![](assets/profile.jpg){fig-alt="Shokhrukhkhon Nishonkulov" width="360"}
+![](assets/profile.jpg){fig-alt="Portrait of Shohruhxon Nishonqulov"}
 :::
 :::
 :::
 
----
+## Research Interests
 
-## Highlights
+::: {.tags}
+[Applied Econometrics]{.tag} [High-Dimensional Methods]{.tag} [Causal Inference]{.tag} [Macroeconomic Policy]{.tag} [Regional Development]{.tag} [Public Finance]{.tag} [Institutional Economics]{.tag}
+:::
+
+## Recent Publication
+
+::: {.pub}
+[2026 · Quality & Quantity (Springer)]{.pub-year}
+
+[Structural drivers and distributional inequality in global renewable energy adoption]{.pub-title}
+
+[DOI: 10.1007/s11135-026-02619-y](https://doi.org/10.1007/s11135-026-02619-y)
+:::
+
+[All publications →](publications.qmd)
+
+## Selected Projects
 
 ::: {.grid}
 :::{.card}
-### Projects
-Applied work, prototypes, and experiments.
+[Econometrics · Simulation]{.eyebrow}
+
+### Confidence-Interval Performance of the Double LASSO Estimator
+Monte Carlo study of finite-sample inference for Double LASSO in high-dimensional linear models.
+
+[View on GitHub](https://github.com/mrshohruh/Double_Lasso)
 :::
 :::{.card}
-### Publications
-Research outputs and academic writing.
-:::
-:::{.card}
-### Blog
-Notes, tutorials, and ideas.
+[Research Tools · Housing]{.eyebrow}
+
+### Uzbekistan Housing Market Research Agent
+An autonomous agent that turns raw housing data into a complete market and policy report.
+
+[View on GitHub](https://github.com/mrshohruh/Economic-Research-Agent)
 :::
 :::
 
----
-
-## Quick Links
-
-- [About](about.qmd)
-- [Contact](contact.qmd)
+[All projects →](projects.qmd)

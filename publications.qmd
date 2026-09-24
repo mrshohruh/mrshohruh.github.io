@@ -1,14 +1,40 @@
 ---
 title: "Publications"
+subtitle: "Peer-reviewed articles and research papers"
 ---
 
-## Publications
+Full list also available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=j_8QOEcAAAAJ).
 
-- **2026** — *Structural drivers and distributional inequality in global renewable energy adoption.*  
-  [doi.org/10.1007/s11135-026-02619-y](https://doi.org/10.1007/s11135-026-02619-y)
-- **2023** — *Econometric Analysis of the Impact of Innovative Development of Business Entities on Economic Growth on the Example of Uzbekistan*  
-  [niet.uz/index.php/nj/article/view/300](http://niet.uz/index.php/nj/article/view/300)
-- **2023** — *Risk Analysis of Foreign Direct Investments in Innovative Projects: Uzbekistan*  
-  [ares.uz/uz/maqola-sahifasi/risk-analysis-foreign-direct-investments-innovative-projects-uzbekistan](https://www.ares.uz/uz/maqola-sahifasi/risk-analysis-foreign-direct-investments-innovative-projects-uzbekistan)
-- **2022** — *Blockchain Technology for Small Businesses*  
-  [ijeais.org/wp-content/uploads/2022/2/IJEAIS220211.pdf](http://ijeais.org/wp-content/uploads/2022/2/IJEAIS220211.pdf)
+## Journal Articles
+
+::: {.pub}
+[2026 · Quality & Quantity (Springer)]{.pub-year}
+
+[Structural drivers and distributional inequality in global renewable energy adoption]{.pub-title}
+
+[DOI: 10.1007/s11135-026-02619-y](https://doi.org/10.1007/s11135-026-02619-y)
+:::
+
+::: {.pub}
+[2023]{.pub-year}
+
+[Econometric Analysis of the Impact of Innovative Development of Business Entities on Economic Growth on the Example of Uzbekistan]{.pub-title}
+
+[niet.uz](http://niet.uz/index.php/nj/article/view/300)
+:::
+
+::: {.pub}
+[2023]{.pub-year}
+
+[Risk Analysis of Foreign Direct Investments in Innovative Projects: Uzbekistan]{.pub-title}
+
+[ares.uz](https://www.ares.uz/uz/maqola-sahifasi/risk-analysis-foreign-direct-investments-innovative-projects-uzbekistan)
+:::
+
+::: {.pub}
+[2022 · International Journal of Engineering and Information Systems (IJEAIS)]{.pub-year}
+
+[Blockchain Technology for Small Businesses]{.pub-title}
+
+[PDF](http://ijeais.org/wp-content/uploads/2022/2/IJEAIS220211.pdf)
+:::
