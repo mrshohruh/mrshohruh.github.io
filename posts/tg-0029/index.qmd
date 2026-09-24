@@ -1,0 +1,14 @@
+---
+title: "Eng kam oylik ish haqi Maʼlumki, eng kam ish haqi iqtisodiyotdagi muhim masalalardan…"
+description: "Eng kam oylik ish haqi Maʼlumki, eng kam ish haqi iqtisodiyotdagi muhim masalalardan biri. U nafaqat ishchilarning daromadiga, balki mehnat bozori, inflyatsiya va mamlakatdagi ijtimoiy tenglikka ham…"
+date: "2025-08-19T10:45:51+00:00"
+categories: [Telegram]
+telegram-url: https://t.me/iqtisodchiroq/29
+---
+
+````{=html}
+<div class="tg-post">
+<div class="tg-text"><b>Eng kam oylik</b> <b>ish haqi <br/></b><br/>Maʼlumki, eng kam ish haqi iqtisodiyotdagi muhim masalalardan biri. U nafaqat ishchilarning daromadiga, balki mehnat bozori, inflyatsiya va mamlakatdagi ijtimoiy tenglikka ham jiddiy taʼsir ko‘rsatadi. Lekin bu miqdor qanday qilib belgilanadi?<br/><br/>Iqtisodchi Tito Boeri oʻzining 2012-yilda chop etilgan "<a href="https://www.sciencedirect.com/science/article/pii/S0927537112000024?casa_token=f9sgHEVQPGAAAAAA:0lZQG8AqJTi1XBg8lIDReo9drbhCqCDwRl9uO-udjgwc5_avB9nKIHJXyvMWH0izNVRhhGdRxDQ" rel="noopener" target="_blank">Setting the minimum wage</a>" nomli maqolasida aynan shu savolga javob izlagan. Uning tadqiqoti 68 ta davlatdagi eng kam ish haqi belgilanishini tahlil qilishga qaratilgan.<br/><br/>Boeri eng kam ish haqi belgilashning ikkita asosiy usulini oʻrgangan:<br/><br/>Hukumat tomonidan qonun orqali belgilash.<br/><br/>Kasaba uyushmalari va ish beruvchilar oʻrtasidagi kollektiv shartnomalar orqali belgilash.<br/><br/>Maqolada ko‘p o‘zgaruvchili regressiya tahlili (multivariate regression analysis) usulidan foydalanilgan. Bunda, eng kam ish haqiga taʼsir qiluvchi boshqa omillar (masalan, mamlakatning boyligi, kasaba uyushmalariga aʼzolik darajasi va siyosiy tizim) nazoratga olingan holda, eng kam ish haqini belgilash mexanizmining oʻzi qanchalik muhim ekanligi oʻrganilgan.<br/><br/>Tahlil natijalari shuni ko‘rsatdiki, hukumat tomonidan qonun bilan belgilangan eng kam ish haqi, odatda, kasaba uyushmalari tomonidan kelishilgan shartnomalardagi eng past ish haqidan pastroq bo‘ladi.<br/><br/>Nima uchun?<br/><br/>Tito Boeri bu natijani quyidagicha izohlaydi: hukumatlar eng kam ish haqini belgilashda nafaqat ishchilar, balki ish beruvchilar va ish oʻrinlari yaratish kabi iqtisodiy barqarorlikka taʼsir qiluvchi boshqa omillarni ham hisobga olishga majbur. Kasaba uyushmalari esa, asosan, aʼzolarining, yaʼni ishchilarning manfaatini himoya qilishga qaratilgan boʻladi.<br/><br/>Xulosa: Eng kam ish haqini belgilash usuli uning yakuniy darajasiga sezilarli taʼsir ko‘rsatadi. Bu, oʻz navbatida, iqtisodiyotning turli jabhalariga taʼsir qiladi.<br/><br/><a href="https://t.me/iqtisodchiroq" rel="noopener" target="_blank">@iqtisodchiroq</a></div>
+<p class="tg-source"><a href="https://t.me/iqtisodchiroq/29" target="_blank" rel="noopener">View on Telegram →</a></p>
+</div>
+````

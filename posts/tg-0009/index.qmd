@@ -1,0 +1,15 @@
+---
+title: "🎥 \"The Economic Organization of a POW Camp\": Iqtisodiyotni eng oddiy muhitda tushunish"
+description: "Tasavvur qiling, harbiy asirlar lageri ichida ham iqtisodiy tizim shakllanishi mumkin. Bu mavzu R.A. Radfordning mashhur maqolasida batafsil yoritilgan. U Ikkinchi jahon urushi davrida harbiy asir…"
+date: "2025-01-13T05:39:50+00:00"
+categories: [Telegram]
+telegram-url: https://t.me/iqtisodchiroq/9
+---
+
+````{=html}
+<div class="tg-post">
+<div class="tg-text">Tasavvur qiling, harbiy asirlar lageri ichida ham iqtisodiy tizim shakllanishi mumkin. Bu mavzu R.A. Radfordning mashhur maqolasida batafsil yoritilgan. U Ikkinchi jahon urushi davrida harbiy asir sifatida yig‘gan kuzatuvlarini iqtisodiy tahlil qilib, odamlar iqtisodiy aloqalarni qaysi sharoitda bo‘lmasin tiklashga intilishini ko‘rsatib beradi.<br/><br/>🔍 Asosiy voqealar va tahlillar<br/>Radford maqolasida asirlar lagerida shakllangan kichik iqtisodiy tizimni tahlil qiladi. Lager ichida:<br/>1️⃣ Barter tizimi: Asirlar bir-birlari bilan sigaret, shokolad, non kabi narsalarni almashtirganlar. Bu yerda sigaret universal "valyuta" rolini o‘ynagan.<br/>2️⃣ Narxlar mexanizmi: Mahsulotlarning qiymati ularning o‘sha vaqtdagi taklif va talabiga qarab o‘zgargan. Masalan, ochlik vaqtida oziq-ovqat qimmatlashgan, sigaret esa nisbatan arzonlashgan.<br/>3️⃣ Bozorni tartibga solish: Dastlab barter tizimi qiyin bo‘lgan, chunki to‘g‘ri ekvivalent topish muammo edi. Keyinchalik, o‘z-o‘zidan tartibga tushgan tizim shakllangan.<br/><br/>💡 Nima uchun bu qiziq?<br/>Radfordning tajribasi oddiy lager sharoitida iqtisodiy tizimlarning qanday shakllanishini tushunishga yordam beradi. Bu:<br/><br/>Pul va bozor mexanizmlarining muhimligini;<br/>Iqtisodiyotning asosiy qonunlari universal ekanini;<br/>Insonlarning iqtisodiy munosabatlarni tashkil qilishga tabiiy moyilligini ko‘rsatadi.<br/><br/>📌 Saboq:<br/>Har qanday sharoitda, hatto resurslar cheklangan joyda ham, iqtisodiy mexanizmlar shakllanadi. Bu iqtisodiyotning o‘ta dinamik va moslashuvchan ekanidan darak beradi.<br/><br/>📚 Siz o‘qigan edingizmi? Agar o‘qimagan bo‘lsangiz albatta o‘qib ko‘ring. Radfordning bu <a href="https://courses.cit.cornell.edu/econ4260/out/radford_pow.pdf" rel="noopener" target="_blank">maqolasi</a> iqtisodiy nazariya haqidagi tushunchalaringizni qanday o‘zgartirdi? <br/><br/><a href="https://t.me/Iqtisodchiroq" rel="noopener" target="_blank">@Iqtisodchiroq</a></div>
+<a class="tg-link-preview" href="https://courses.cit.cornell.edu/econ4260/out/radford_pow.pdf" target="_blank" rel="noopener"></a>
+<p class="tg-source"><a href="https://t.me/iqtisodchiroq/9" target="_blank" rel="noopener">View on Telegram →</a></p>
+</div>
+````

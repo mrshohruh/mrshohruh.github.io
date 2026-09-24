@@ -1,0 +1,14 @@
+---
+title: "Nima uchun iqtisodda “ishsizlikning tabiiy darajasi” bo‘ladi?"
+description: "Odatda odamlar shunday deb o‘ylaydi: “Agar iqtisod kuchli bo‘lsa, ishsizlik 0% bo‘lishi kerak.” Ammo iqtisodiyotda bu mumkin emas, hatto eng rivojlangan davlatlarda ham doimiy, pasaymaydigan minimal…"
+date: "2025-11-18T11:20:21+00:00"
+categories: [Telegram]
+telegram-url: https://t.me/iqtisodchiroq/34
+---
+
+````{=html}
+<div class="tg-post">
+<div class="tg-text">Odatda odamlar shunday deb o‘ylaydi:<br/>“Agar iqtisod kuchli bo‘lsa, ishsizlik 0% bo‘lishi kerak.”<br/>Ammo iqtisodiyotda bu mumkin emas, hatto eng rivojlangan davlatlarda ham doimiy, pasaymaydigan minimal ishsizlik darajasi mavjud.<br/><br/><b><i>Bu ishsizlikning tabiiy darajasi deyiladi. U nima uchun bo‘ladi?</i></b><br/><br/>Ish o‘zgartirayotgan odamlar (<b><i>friksion ishsizlik</i></b>)<br/>Har kuni minglab odamlar ish joyini o‘zgartiradi: biri yaxshi maosh qidiradi, biri boshqa shahar yoki mamlakatga ko‘chadi, yana biri yangi sohada ishlamoqchi bo‘ladi. Bu vaqt ichida ular vaqtincha ishsiz ko‘rinadi. Bu normal va sog‘lom iqtisod belgisi.<br/><br/>Ko‘nikmalar va texnologiya mos kelmaganda (<b><i>strukturaviy ishsizlik</i></b>)<br/>Iqtisodiyot tez o‘zgaradi: yangi texnologiyalar paydo bo‘ladi, eski sohalar qisqaradi, yangi kasblar yaratiladi. Masalan, avtomatlashtirish tufayli ba’zi ishlar yo‘qoladi, lekin yangi IT yoki xizmat ko‘rsatish kasblari ochiladi. Ishchi kuchi doimiy moslashib borolmaydi vaqt kerak.<br/><br/>Ish beruvchilar doim tanlaydi Firmalar nomzodlarni darhol emas, tanlab-tanlab yollaydi. Bu jarayonning o‘zi ham kichik “kechikish” yaratadi va statistikada ishsizlik sifatida ko‘rinadi.<br/><br/><b>Xulosa</b><br/>Ishsizlikning tabiiy darajasi bu iqtisodiyotning ichki ritmi.<br/><br/>U shuni anglatadi: Ishsizlik nolga tushishi yaxshi iqtisod alomati emas.<br/><i>Eng muhim narsa  odamlarning ishga qayta kirish tezligi va ko‘nikmalari zamonga mos bo‘lishi.<br/><br/></i>👨‍💻<i> </i><a href="https://t.me/Iqtisodchiroq" rel="noopener" target="_blank">@Iqtisodchiroq</a></div>
+<p class="tg-source"><a href="https://t.me/iqtisodchiroq/34" target="_blank" rel="noopener">View on Telegram →</a></p>
+</div>
+````

@@ -1,0 +1,14 @@
+---
+title: "📊Nega inflyatsiya har safar bir xil o’smaydi?"
+description: "Inflyatsiya - bu narxlarning umumiy darajasi oshishi. Lekin iqtisodchilar bitta savolga doim alohida e’tibor berishadi: Nima uchun ba’zan inflyatsiya sekin, ba’zan esa juda tezlashadi? Buning uchta…"
+date: "2025-11-15T16:00:19+00:00"
+categories: [Telegram]
+telegram-url: https://t.me/iqtisodchiroq/33
+---
+
+````{=html}
+<div class="tg-post">
+<div class="tg-text">Inflyatsiya - bu narxlarning umumiy darajasi oshishi. Lekin iqtisodchilar bitta savolga doim alohida e’tibor berishadi:<br/><br/>Nima uchun ba’zan inflyatsiya sekin, ba’zan esa juda tezlashadi?<br/><br/>Buning uchta asosiy sababi bor:<br/><br/>1. Talab sur’ati o‘zgarganda<br/><br/>Agar iqtisodda talab tez o‘sib, ishlab chiqarish unga ulgurmasa, narxlar tez ko‘tariladi.<br/>Masalan: odamlar ko‘proq uy, mashina yoki oziq-ovqat sotib ola boshlasa, ishlab chiqaruvchilar yetkazib berolmaydi natijada narx ko‘tariladi.<br/><br/>Buni iqtisodda <b>demand-pull inflation</b> deb ataladi.<br/><br/>2. Ishlab chiqarish xarajatlari oshganda<br/><br/>Agar korxonalar uchun chiqimlar oshsa, masalan:<br/> • yoqilg‘i qimmatlashsa,<br/> • ish haqi oshsa,<br/> • xomashyo tanqis bo‘lsa,<br/><br/>ular mahsulot narxini ko‘tarishga majbur bo‘ladi.<br/><br/>Bu <b>cost-push inflation</b>.<br/><br/>3. Kutilmalar (expectations) o‘zgarganda<br/><br/>Agar jamiyat “narxlar baribir oshadi” deb kutsa:<br/> • korxonalar narxni oldindan ko‘taradi,<br/> • ishchilar yuqori maosh talab qiladi,<br/> • tadbirkorlar eski narxda sotishni xohlamaydi.<br/><br/>Natija: inflyatsiya o‘zini-o‘zi tezlashtirib yuboradi.<br/><br/>Shuning uchun markaziy banklar kommunikatsiyaga (prognozlar, yo‘nalishlar) juda katta e’tibor beradi — chunki kutilmalar iqtisodning eng kuchli dvigatellaridan biridir.<br/><br/><b>Xulosa</b><br/><br/>Inflyatsiya bu faqat narxlarning ko‘tarilishi emas.<br/>U talab, xarajatlar va odamlarning kutishlari o‘rtasidagi murakkab psixologik + iqtisodiy o‘zaro ta’sir.<br/><br/>Shu sababli har bir mamlakatning inflyatsiyasi boshqacha bo‘ladi.<br/><br/>👨‍💻<a href="https://t.me/Iqtisodchiroq" rel="noopener" target="_blank">@Iqtisodchiroq</a></div>
+<p class="tg-source"><a href="https://t.me/iqtisodchiroq/33" target="_blank" rel="noopener">View on Telegram →</a></p>
+</div>
+````

@@ -1,0 +1,16 @@
+---
+title: "Iqtisodchi bo’lish siz o’ylaganchalik oson emas😔"
+description: ""
+date: "2025-06-16T11:19:26+00:00"
+categories: [Telegram]
+image: "photo-1.jpg"
+telegram-url: https://t.me/iqtisodchiroq/21
+---
+
+````{=html}
+<div class="tg-post">
+<div class="tg-media tg-media-2"><img src="photo-1.jpg" alt="" loading="lazy"><img src="photo-2.jpg" alt="" loading="lazy"></div>
+<div class="tg-text"><a href="https://t.me/Iqtisodchiroq" rel="noopener" target="_blank">@Iqtisodchiroq</a></div>
+<p class="tg-source"><a href="https://t.me/iqtisodchiroq/21" target="_blank" rel="noopener">View on Telegram →</a></p>
+</div>
+````

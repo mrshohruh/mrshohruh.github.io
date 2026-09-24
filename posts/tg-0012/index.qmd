@@ -1,0 +1,14 @@
+---
+title: "Kanal rivojlanishi uchun, postlarni Iqtisodchi yokida shu soxaga qiziqadigan…"
+description: "Kanal rivojlanishi uchun, postlarni Iqtisodchi yokida shu soxaga qiziqadigan do‘stlaringgiz bilan bo‘lishsanggiz hursand bo‘lar edim. Oldindan rahmat!"
+date: "2025-01-17T14:06:46+00:00"
+categories: [Telegram]
+telegram-url: https://t.me/iqtisodchiroq/12
+---
+
+````{=html}
+<div class="tg-post">
+<div class="tg-text">Kanal rivojlanishi uchun, postlarni Iqtisodchi yokida shu soxaga qiziqadigan do‘stlaringgiz bilan bo‘lishsanggiz hursand bo‘lar edim. Oldindan rahmat!<br/><br/><a href="https://t.me/Iqtisodchiroq" rel="noopener" target="_blank">@Iqtisodchiroq</a></div>
+<p class="tg-source"><a href="https://t.me/iqtisodchiroq/12" target="_blank" rel="noopener">View on Telegram →</a></p>
+</div>
+````

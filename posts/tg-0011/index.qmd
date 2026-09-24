@@ -1,0 +1,14 @@
+---
+title: "Lemons Principle"
+description: "Avvalroq Uzbekonomics podkasita ushbu ibora haqida eshitgan edim. Bugun universitetda darsim doirasida duch kelyapman. Lemons prinsipini tushunish iqtisodiy jarayonlarni yanada chuqurroq anglashga…"
+date: "2025-01-17T14:06:14+00:00"
+categories: [Telegram]
+telegram-url: https://t.me/iqtisodchiroq/11
+---
+
+````{=html}
+<div class="tg-post">
+<div class="tg-text">Avvalroq Uzbekonomics podkasita ushbu ibora haqida eshitgan edim. Bugun universitetda darsim doirasida duch kelyapman.<br/><br/>Lemons prinsipini tushunish iqtisodiy jarayonlarni yanada chuqurroq anglashga yordam beradi. Bu prinsip, asosan, bozorlarning "asymmetric information" (noto'g'ri ma'lumot yokida ma'lumotlarning teng taqsimlanmaganligi) muammosini tasvirlaydi. U amerikalik iqtisodchi George Akerlof tomonidan 1970-yilda ishlab chiqilgan bo'lib, asosan ishlatilgan avtomobillar bozori misolida tushuntirilgan.<br/><br/>Lemons Prinsipi - Asymmetric Information va Bozor Noto'g'ri Ishlashining Sabablari<br/><br/>Akerlofning "Lemons" degan atamasi ishlatilgan, sifat jihatidan yomon avtomobillarni anglatadi. Agar bozorga kelgan barcha avtomobillarning holati haqida xaridorlar va sotuvchilar o'rtasida to'liq va aniq ma'lumotlar mavjud bo'lmasa, xaridorlar faqat yomon sifatli avtomobillarni (lemons) olishdan qo'rqishadi. Bu, o'z navbatida, bozorning to'liq ishlashiga to'sqinlik qiladi, chunki yaxshi sifatli avtomobillar sotuvchilari o'z tovarlarini sotishdan bosh tortishadi.<br/><br/>Lemons Prinsipining Asosiy G'oyasi:<br/><br/>Noto'g'ri ma'lumotlar – Sotuvchi tovar haqida yaxshi ma'lumotga ega bo'lishi mumkin, ammo xaridor bu ma'lumotlarga ishonmasligi mumkin.<br/>Bozorni tartibga solishning zarurligi – Bozorning to'g'ri ishlashi uchun yaxshi va yomon tovarlarni ajratish mexanizmlari yoki regulyatsiyalar zarur.<br/>Bozorlar ishdan chiqishi mumkin – Agar ma'lumot asimmetrik bo'lsa, bozorda yaxshi tovarlar kamayishi, yomon tovarlar esa talabga kirib qolishi mumkin.<br/>Xulosa: Lemons prinsipini bilish bizga iqtisodiy bozorlarning noaniqliklar va muammolar bilan qanday ishlashini tushunishga yordam beradi. Asimmetrik ma'lumotlar bozorning samarali ishlashiga to'sqinlik qilishi mumkin, bu esa turli xil bozor mexanizmlarini ishlab chiqishni talab etadi.<br/><br/><a href="https://t.me/Iqtisodchiroq" rel="noopener" target="_blank">@Iqtisodchiroq</a></div>
+<p class="tg-source"><a href="https://t.me/iqtisodchiroq/11" target="_blank" rel="noopener">View on Telegram →</a></p>
+</div>
+````

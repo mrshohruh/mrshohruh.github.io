@@ -1,0 +1,15 @@
+---
+title: "Iqtisodiyotda “Resource Curse” yoki “Resurslar la’nati” degan tushuncha mavjud."
+description: "Bu nazariyaga ko‘ra, tabiiy boyliklarning ko‘pligi ba’zan iqtisodiy rivojlanishga yordam berish o‘rniga to‘sqinlik qilishi mumkin. 1. Davlat ishlab chiqarishni rivojlantirmaydi Neftdan milliardlab…"
+date: "2026-06-13T11:43:59+00:00"
+categories: [Telegram]
+telegram-url: https://t.me/iqtisodchiroq/47
+---
+
+````{=html}
+<div class="tg-post">
+<p class="tg-meta">↩ Continues: <a href="../tg-0046/index.html">Nega neftga boy davlatlar kambag‘al, nefti yo‘q davlatlar esa boy? Tasavvur…</a></p>
+<div class="tg-text">Bu nazariyaga ko‘ra, tabiiy boyliklarning ko‘pligi ba’zan iqtisodiy rivojlanishga yordam berish o‘rniga to‘sqinlik qilishi mumkin.  <br/><br/><b>1. Davlat ishlab chiqarishni rivojlantirmaydi</b><br/><br/>Neftdan milliardlab dollar kelayotgan bo‘lsa, hukumatga yangi sanoat yaratish, eksportni rivojlantirish yoki innovatsiyalarni qo‘llab-quvvatlash zarurati kamayadi.<br/><br/>Natijada iqtisodiyot bitta sohaga bog‘lanib qoladi.<br/><br/><b>2. Korrupsiya kuchayadi</b><br/><br/>Tabiiy resurslardan keladigan ulkan daromadlar ko‘pincha korrupsiyani kuchaytiradi. Tadqiqotlar resurs boyligi va korrupsiya o‘rtasida bog‘liqlik mavjudligini ko‘rsatadi.  <br/><br/><b>3. “Dutch Disease” yuz beradi</b><br/><br/>Neft eksportidan katta valyuta oqimi kelganda milliy valyuta qimmatlashadi.<br/><br/><a href="https://t.me/Iqtisodchiroq" rel="noopener" target="_blank">@Iqtisodchiroq</a></div>
+<p class="tg-source"><a href="https://t.me/iqtisodchiroq/47" target="_blank" rel="noopener">View on Telegram →</a></p>
+</div>
+````

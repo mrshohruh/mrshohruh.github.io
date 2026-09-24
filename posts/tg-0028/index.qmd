@@ -1,0 +1,14 @@
+---
+title: "\"Nega boshqalarning maslahatidan yetarlicha foydalana olmaymiz?\""
+description: "Yangi tadqiqot shuni ko‘rsatadiki, odamlar o‘zlari topgan ma'lumotga boshqalarning xuddi shu darajadagi ma'lumotidan ko‘ra ko‘proq ishonishadi, hattoki u axborot aniq, to‘g‘ridan-to‘g‘ri va ochiq…"
+date: "2025-07-31T10:24:23+00:00"
+categories: [Telegram]
+telegram-url: https://t.me/iqtisodchiroq/28
+---
+
+````{=html}
+<div class="tg-post">
+<div class="tg-text">Yangi tadqiqot shuni ko‘rsatadiki, odamlar o‘zlari topgan ma'lumotga boshqalarning xuddi shu darajadagi ma'lumotidan ko‘ra ko‘proq ishonishadi, hattoki u axborot aniq, to‘g‘ridan-to‘g‘ri va ochiq taqdim etilgan bo‘lsa ham!<br/><br/>MIT, Harvard va Columbia universitetlari olimlari tomonidan olib borilgan tajribalarda ishtirokchilar urnadagi qizil va oq sharlar sonini taxmin qilishadi. Ammo ular boshqalarning qilgan kuzatuvlari asosida emas, aynan o‘zlari ko‘rgan natijalarga tayanib taxmin qilishga moyil bo‘lishadi.<br/><br/>📉Boshqalarning topgan axborotiga bo‘lgan ishonch darajasi:<br/><br/>Yuzma-yuz muloqotda 54% kamroq,<br/>To‘g‘ridan-to‘g‘ri eksperimentator aytgan taqdirda ham  46% kamroq,<br/>Hatto boshqasining harakatini o‘z ko‘zi bilan ko‘rib turgan paytda ham  41% kamroq baholangan!<br/>Sababi nima? Olimlar bu holatni “axborotga egalik effekti” deb atashadi: ya’ni odamlar o‘zlari harakat orqali topgan ma’lumotni “meniki” deb hisoblab, unga ko‘proq ishonishadi.<br/><br/>💡 Qiziq jihati odamlar bu tarafkashlikni o‘zlari sezishmaydi. Ulardan so‘ralganda, aksariyati “har ikkala manbani teng baholadim” deb javob berishgan.<br/><br/>📚 Ushbu xulosalar shuni anglatadiki:<br/><br/>Boshqalarning tajribasi biz kutgan darajada ta’sir qilmasligi mumkin.<br/>Innovatsiyalarni qabul qilish, ijtimoiy o‘rganish yoki maslahat asosida qaror qabul qilishda sezilmaydigan xatoliklar bo‘lishi ehtimoldan holi emas.<br/><br/>📄To‘liq maqola: “<a href="https://economics.mit.edu/sites/default/files/inline-files/not-learning-from-others_0.pdf" rel="noopener" target="_blank">Not Learning from Others</a>”<br/><br/><a href="https://t.me/iqtisodchiroq" rel="noopener" target="_blank">@iqtisodchiroq</a></div>
+<p class="tg-source"><a href="https://t.me/iqtisodchiroq/28" target="_blank" rel="noopener">View on Telegram →</a></p>
+</div>
+````

@@ -1,0 +1,14 @@
+---
+title: "Hayotimdagi yana bir juda muhim sahifa o‘z yakuniga yetmoqda."
+description: "So‘nggi ikki yil men uchun qisqa, lekin unutilmas yillar bo‘ldi. Dunyoning nufuzli universitetlaridan birida magistratura bosqichida tahsil olish, Yevropaning tarixiy va go‘zal joylariga sayohat…"
+date: "2026-05-20T19:26:54+00:00"
+categories: [Telegram]
+telegram-url: https://t.me/iqtisodchiroq/42
+---
+
+````{=html}
+<div class="tg-post">
+<div class="tg-text">So‘nggi ikki yil men uchun qisqa, lekin unutilmas yillar bo‘ldi. Dunyoning nufuzli universitetlaridan birida magistratura bosqichida tahsil olish, Yevropaning tarixiy va go‘zal joylariga sayohat qilish, yangi do‘stlar orttirish, uy sog‘inchi, turli sinovlar va unutilmas lahzalar bularning barchasini so‘z bilan to‘liq ifodalash qiyin. Ba’zan his-tuyg‘ular shunchalik ko‘p bo‘ladiki, ularni ta’riflashga so‘z ojiz qoladi.<br/><br/>Endi esa hayotimda yangi bir sahifa boshlanish arafasida turibman. So‘nggi paytlarda bu haqda juda ko‘p o‘ylaydigan bo‘lib qoldim. Savollar ko‘p: qayerda ishlayman? Tanlagan yo‘lim menga mos keladimi? Ota-onam men bilan yana bir bor faxrlanisharmikan? Oldinda meni qanday imkoniyatlar va sinovlar kutmoqda?<br/><br/>Ha, do‘stlar, shu yergacha keldik. Yetkazganiga shukur. Bu yo‘l oson bo‘lmadi, lekin har bir qadamining o‘z ma’nosi bor edi.<br/><br/>Bundan keyingi sahifalar ham yaxshilik, baraka va muvaffaqiyatlarga boy bo‘lishiga umid qilaman.</div>
+<p class="tg-source"><a href="https://t.me/iqtisodchiroq/42" target="_blank" rel="noopener">View on Telegram →</a></p>
+</div>
+````

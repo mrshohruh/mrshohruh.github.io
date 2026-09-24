@@ -1,0 +1,16 @@
+---
+title: "Grade of Research Module"
+description: ""
+date: "2026-02-17T15:56:28+00:00"
+categories: [Telegram]
+image: "video-1.jpg"
+telegram-url: https://t.me/iqtisodchiroq/38
+---
+
+````{=html}
+<div class="tg-post">
+<p class="tg-meta">↩ Continues: <a href="../tg-0035/index.html">Linkedin</a></p>
+<div class="tg-media tg-media-1"><a class="tg-video" href="https://t.me/iqtisodchiroq/38" target="_blank" rel="noopener" title="Watch on Telegram"><img src="video-1.jpg" alt="Video thumbnail" loading="lazy"><span class="tg-play">▶</span></a></div>
+<p class="tg-source"><a href="https://t.me/iqtisodchiroq/38" target="_blank" rel="noopener">View on Telegram →</a></p>
+</div>
+````

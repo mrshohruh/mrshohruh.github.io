@@ -1,0 +1,14 @@
+---
+title: "Ramazon Hayiti barchangizga muborak bo\\`lsin."
+description: "Ramazon Hayiti barchangizga muborak bo\\`lsin."
+date: "2026-03-19T21:09:52+00:00"
+categories: [Telegram]
+telegram-url: https://t.me/iqtisodchiroq/39
+---
+
+````{=html}
+<div class="tg-post">
+<div class="tg-text">Ramazon Hayiti barchangizga muborak bo`lsin.<b><br/><br/></b><a href="https://t.me/Iqtisodchiroq" rel="noopener" target="_blank">@Iqtisodchiroq</a></div>
+<p class="tg-source"><a href="https://t.me/iqtisodchiroq/39" target="_blank" rel="noopener">View on Telegram →</a></p>
+</div>
+````

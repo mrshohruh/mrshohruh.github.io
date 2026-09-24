@@ -1,0 +1,16 @@
+---
+title: "Telegram post \\#26"
+description: ""
+date: "2025-07-07T12:55:42+00:00"
+categories: [Telegram]
+image: "video-1.jpg"
+telegram-url: https://t.me/iqtisodchiroq/26
+---
+
+````{=html}
+<div class="tg-post">
+<div class="tg-media tg-media-1"><a class="tg-video" href="https://t.me/iqtisodchiroq/26" target="_blank" rel="noopener" title="Watch on Telegram"><img src="video-1.jpg" alt="Video thumbnail" loading="lazy"><span class="tg-play">▶</span></a></div>
+<div class="tg-text"><a href="https://t.me/Iqtisodchiroq" rel="noopener" target="_blank">@Iqtisodchiroq</a></div>
+<p class="tg-source"><a href="https://t.me/iqtisodchiroq/26" target="_blank" rel="noopener">View on Telegram →</a></p>
+</div>
+````
