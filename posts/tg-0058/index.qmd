@@ -1,0 +1,15 @@
+---
+title: "2026 йил иқтисодиёт бўйича Нобел мукофоти совриндорлари."
+description: ""
+date: "2026-10-12T11:19:50+00:00"
+categories: [Telegram]
+image: "photo-1.jpg"
+telegram-url: https://t.me/iqtisodchiroq/58
+---
+
+````{=html}
+<div class="tg-post">
+<div class="tg-media tg-media-1"><img src="photo-1.jpg" alt="" loading="lazy"></div>
+<p class="tg-source"><a href="https://t.me/iqtisodchiroq/58" target="_blank" rel="noopener">View on Telegram →</a></p>
+</div>
+````
