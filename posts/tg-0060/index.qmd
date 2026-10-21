@@ -1,0 +1,14 @@
+---
+title: "🇺🇿Özbek tili bayrami muborak bölsin!😉"
+description: ""
+date: "2026-10-21T10:29:05+00:00"
+categories: [Telegram]
+telegram-url: https://t.me/iqtisodchiroq/60
+---
+
+````{=html}
+<div class="tg-post">
+<div class="tg-text"><a href="https://t.me/Iqtisodchiroq" rel="noopener" target="_blank">@Iqtisodchiroq</a></div>
+<p class="tg-source"><a href="https://t.me/iqtisodchiroq/60" target="_blank" rel="noopener">View on Telegram →</a></p>
+</div>
+````
