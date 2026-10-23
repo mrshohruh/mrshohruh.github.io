@@ -48,7 +48,7 @@ subtitle: "Shohruhxon Nishonqulov · Economist"
 
 [University of Bonn, Germany]{.entry-org}
 
-[Specialization in econometrics: high-dimensional methods and causal inference. Final grade: 1.0 (expected).]{.entry-desc}
+[Specialization in econometrics: high-dimensional methods and causal inference. Final grade: 2.2; master's thesis: 1.7.]{.entry-desc}
 :::
 
 ::: {.entry}

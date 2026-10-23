@@ -46,7 +46,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-55617497126496852ff9f5a59253c640.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-bb5ce4f09c3d713477d34b1921f208f7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -182,6 +182,19 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="grid one-col">
+<div class="card">
+<p><span class="eyebrow">Macroeconomics · Nowcasting</span></p>
+<section id="nowcasting-uzbekistans-real-gdp-growth" class="level3">
+<h3 class="anchored" data-anchor-id="nowcasting-uzbekistans-real-gdp-growth">Nowcasting Uzbekistan’s Real GDP Growth</h3>
+<p>Monthly nowcasts of Uzbekistan’s real GDP growth (production method), published as Uzstat’s cumulative year-to-date figure with the discrete quarter beside it. Every change in the nowcast is explained by the data releases that caused it.</p>
+<ul>
+<li><strong>Method:</strong> Monthly ingestion of indicator series into a vintage store with quality checks and alerts; transformations into model-ready y/y and seasonally adjusted panels; as-of reconstruction so the model can be evaluated against the information set available on any past date.</li>
+<li><strong>Pipeline:</strong> Automated scheduled runs commit each vintage and the rebuilt panels to a dedicated data branch; change detection explains every revision.</li>
+<li><strong>Tools:</strong> Python, pandas, GitHub Actions</li>
+</ul>
+<p><a href="https://github.com/mrshohruh/nowcasting">View repository on GitHub</a></p>
+</section>
+</div>
 <div class="card">
 <p><span class="eyebrow">Econometrics · Monte Carlo Simulation</span></p>
 <section id="evaluating-the-confidence-interval-performance-of-the-double-lasso-estimator" class="level3">
