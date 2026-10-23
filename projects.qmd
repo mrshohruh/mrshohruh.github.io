@@ -5,6 +5,19 @@ subtitle: "Research software and methodological work"
 
 ::: {.grid .one-col}
 :::{.card}
+[Macroeconomics · Nowcasting]{.eyebrow}
+
+### Nowcasting Uzbekistan's Real GDP Growth
+
+Monthly nowcasts of Uzbekistan's real GDP growth (production method), published as Uzstat's cumulative year-to-date figure with the discrete quarter beside it. Every change in the nowcast is explained by the data releases that caused it.
+
+- **Method:** Monthly ingestion of indicator series into a vintage store with quality checks and alerts; transformations into model-ready y/y and seasonally adjusted panels; as-of reconstruction so the model can be evaluated against the information set available on any past date.
+- **Pipeline:** Automated scheduled runs commit each vintage and the rebuilt panels to a dedicated data branch; change detection explains every revision.
+- **Tools:** Python, pandas, GitHub Actions
+
+[View repository on GitHub](https://github.com/mrshohruh/nowcasting)
+:::
+:::{.card}
 [Econometrics · Monte Carlo Simulation]{.eyebrow}
 
 ### Evaluating the Confidence-Interval Performance of the Double LASSO Estimator

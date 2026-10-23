@@ -18,7 +18,7 @@
     "href": "publications.html#journal-articles",
     "title": "Publications",
     "section": "Journal Articles",
-    "text": "Journal Articles\n\n2026 · Quality & Quantity (Springer)\nStructural drivers and distributional inequality in global renewable energy adoption\nDOI: 10.1007/s11135-026-02619-y\n\n\n2023\nEconometric Analysis of the Impact of Innovative Development of Business Entities on Economic Growth on the Example of Uzbekistan\nniet.uz\n\n\n2023\nRisk Analysis of Foreign Direct Investments in Innovative Projects: Uzbekistan\nares.uz\n\n\n2022 · International Journal of Engineering and Information Systems (IJEAIS)\nBlockchain Technology for Small Businesses\nPDF"
+    "text": "Journal Articles\n\n2026 · Quality & Quantity (Springer)\nStructural drivers and distributional inequality in global renewable energy adoption\nDOI: 10.1007/s11135-026-02619-y\n\n\n2026 · Scientific Journal of Fergana State University (Ilmiy xabarlar)\nExternal Debt Accumulation and Macroeconomic Stability in Post-Soviet Economies\njournal.fdu.uz\n\n\n2023\nEconometric Analysis of the Impact of Innovative Development of Business Entities on Economic Growth on the Example of Uzbekistan\nniet.uz\n\n\n2023\nRisk Analysis of Foreign Direct Investments in Innovative Projects: Uzbekistan\nares.uz\n\n\n2022 · International Journal of Engineering and Information Systems (IJEAIS)\nBlockchain Technology for Small Businesses\nPDF"
   },
   {
     "objectID": "posts/tg-0010/index.html",
@@ -207,7 +207,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Econometrics · Monte Carlo Simulation\n\nEvaluating the Confidence-Interval Performance of the Double LASSO Estimator\nFinite-sample inference for Double LASSO in high-dimensional linear models.\n\nMethod: Monte Carlo simulations across Gaussian, heavy-tailed, and approximately sparse data-generating processes, evaluating coverage, interval length, bias, and RMSE.\nFindings: Plug-in penalties deliver near-nominal coverage; heavy tails widen intervals; OLS becomes unstable as dimensionality approaches the sample size.\nTools: Python, Quarto\n\nView repository on GitHub\n\n\n\nResearch Tools · Housing Economics\n\nUzbekistan Housing Market Research Agent\nAn autonomous research agent that turns raw housing data into a complete market and policy report.\n\nMethod: Ingests JSON, SQL, CSV, Excel, or live database inputs; infers column semantics in English, Russian, and Uzbek; computes cross-sectional and time-series statistics (growth, seasonality, structural breaks, regional convergence); identifies drivers via correlation and multivariate OLS; and researches the policy and macroeconomic context.\nOutput: A 13-section Word report with charts, tables, a dated policy timeline, and evidence-based recommendations. Runs fully offline or with Claude for narrative synthesis.\nTools: Python, pandas, Streamlit, Anthropic Claude API\n\nView repository on GitHub"
+    "text": "Macroeconomics · Nowcasting\n\nNowcasting Uzbekistan’s Real GDP Growth\nMonthly nowcasts of Uzbekistan’s real GDP growth (production method), published as Uzstat’s cumulative year-to-date figure with the discrete quarter beside it. Every change in the nowcast is explained by the data releases that caused it.\n\nMethod: Monthly ingestion of indicator series into a vintage store with quality checks and alerts; transformations into model-ready y/y and seasonally adjusted panels; as-of reconstruction so the model can be evaluated against the information set available on any past date.\nPipeline: Automated scheduled runs commit each vintage and the rebuilt panels to a dedicated data branch; change detection explains every revision.\nTools: Python, pandas, GitHub Actions\n\nView repository on GitHub\n\n\n\nEconometrics · Monte Carlo Simulation\n\nEvaluating the Confidence-Interval Performance of the Double LASSO Estimator\nFinite-sample inference for Double LASSO in high-dimensional linear models.\n\nMethod: Monte Carlo simulations across Gaussian, heavy-tailed, and approximately sparse data-generating processes, evaluating coverage, interval length, bias, and RMSE.\nFindings: Plug-in penalties deliver near-nominal coverage; heavy tails widen intervals; OLS becomes unstable as dimensionality approaches the sample size.\nTools: Python, Quarto\n\nView repository on GitHub\n\n\n\nResearch Tools · Housing Economics\n\nUzbekistan Housing Market Research Agent\nAn autonomous research agent that turns raw housing data into a complete market and policy report.\n\nMethod: Ingests JSON, SQL, CSV, Excel, or live database inputs; infers column semantics in English, Russian, and Uzbek; computes cross-sectional and time-series statistics (growth, seasonality, structural breaks, regional convergence); identifies drivers via correlation and multivariate OLS; and researches the policy and macroeconomic context.\nOutput: A 13-section Word report with charts, tables, a dated policy timeline, and evidence-based recommendations. Runs fully offline or with Claude for narrative synthesis.\nTools: Python, pandas, Streamlit, Anthropic Claude API\n\nView repository on GitHub"
   },
   {
     "objectID": "cv.html",
@@ -228,7 +228,7 @@
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\n\nM.Sc. in Economics\n10/2024 – 09/2026\nUniversity of Bonn, Germany\nSpecialization in econometrics: high-dimensional methods and causal inference. Final grade: 1.0 (expected).\n\n\nB.A. in Economics\n10/2020 – 07/2024\nKokand University, Uzbekistan\nFinal grade: 93/100."
+    "text": "Education\n\nM.Sc. in Economics\n10/2024 – 09/2026\nUniversity of Bonn, Germany\nSpecialization in econometrics: high-dimensional methods and causal inference. Final grade: 2.2; master’s thesis: 1.7.\n\n\nB.A. in Economics\n10/2020 – 07/2024\nKokand University, Uzbekistan\nFinal grade: 93/100."
   },
   {
     "objectID": "cv.html#honors-and-awards",
@@ -474,5 +474,47 @@
     "title": "About",
     "section": "",
     "text": "I am Shohruhxon Nishonqulov, an economist based in Uzbekistan. For me, economics is less a subject than a way of thinking, a discipline that shapes how I frame problems, structure ideas, and try to make sense of the world.\nMy path began at Kokand University in Uzbekistan, where I earned my undergraduate degree in Economics. It was there that a passing curiosity about models and data grew into a lasting commitment to careful, structured research. I learned early that good work is not about complexity for its own sake, but about clarity: asking precise questions and answering them honestly.\nThat commitment took me to the University of Bonn, where I completed a Master of Science in Economics. My work there centered on econometrics, particularly high-dimensional methods and causal inference. I studied the finite-sample behavior of the Double LASSO estimator through extensive Monte Carlo simulations, drawn less by whether a method works in theory than by how it holds up in practice, where data are imperfect, assumptions are stretched, and real decisions depend on reliable inference.\nToday I bring that same approach to policy. I work as a Leading Specialist at the Institute of Macroeconomic and Regional Studies under the Cabinet of Ministers of Uzbekistan, where rigorous quantitative analysis meets questions that matter for the country’s development. This is the connection I have always cared about most, between careful method and real-world problems.\nMy broader interests include applied econometrics, institutional economics, public finance, and the design of research tools that make complex methods transparent and reproducible. Outside formal research, I like to build things: a research workflow, a website, a startup idea. I have led and taken part in international startup competitions, building projects from scratch with small teams under tight constraints. Those experiences taught me how to move from an idea to execution, how to make decisions under uncertainty, and how to stay persistent when things do not work the first time.\nAt the core of everything is a simple principle: think clearly, work seriously, and connect theory with the problems that matter. I am drawn to complex questions, but I believe the way through them is straightforward: think carefully, test honestly, and build patiently.\nCurriculum Vitae Get in touch"
+  },
+  {
+    "objectID": "publications.html#professional-experience",
+    "href": "publications.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nLeading Specialist\n09/2026 – Present\nInstitute of Macroeconomic and Regional Studies under the Cabinet of Ministers of the Republic of Uzbekistan\nResearch and analysis on macroeconomic and regional development; preparation of analytical reports and policy recommendations.\n\n\nHead Coordinator\n02/2023 – 02/2024\nIncubation and Acceleration Center, IT Park at Kokand University\nMentored and supported university student startup projects; developed business projects.\n\n\nOffice Assistant\n11/2021 – 09/2022\nDepartment of Digital Technologies and Mathematics, Kokand University\nAdministrative support for the department, including documentation and implementation of dean’s and rector’s orders."
+  },
+  {
+    "objectID": "publications.html#education",
+    "href": "publications.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nM.Sc. in Economics\n10/2024 – 09/2026\nUniversity of Bonn, Germany\nSpecialization in econometrics: high-dimensional methods and causal inference. Final grade: 2.2; master’s thesis: 1.7.\n\n\nB.A. in Economics\n10/2020 – 07/2024\nKokand University, Uzbekistan\nFinal grade: 93/100."
+  },
+  {
+    "objectID": "publications.html#honors-and-awards",
+    "href": "publications.html#honors-and-awards",
+    "title": "Curriculum Vitae",
+    "section": "Honors and Awards",
+    "text": "Honors and Awards\n\n“El-yurt Umidi” Foundation Scholarship\n2024\n“El-yurt Umidi” Foundation for the Training of Promising Personnel under the President of the Republic of Uzbekistan\n\n\nPresidential Scholarship of the Republic of Uzbekistan\n2023\nMinistry of Higher and Secondary Special Education of the Republic of Uzbekistan\n\n\nState Scholarship named after Islam Karimov\n2022\nMinistry of Higher and Secondary Special Education of the Republic of Uzbekistan\n\n\nRegiston Scholarship\n2022\nREGISTON Non-Governmental Educational Centre\n\n\n3rd Place, Republican Science Olympiad in Economics\n2022\nTashkent State University of Economics\n\n\nParticipant, SolBridge International Business Plan Competition\n2022\nSolBridge International School of Business, Woosong University\n\n\nWinner, “Innovative Ideas of Young Researchers” International Research Competition\n2021\nScience and Education LLC (Russia)\n\n\nAward of Research and Business Foundation Manager\n2021\nGlobal Innovators Festa 2021, Keimyung University & College\n\n\n“Future Scientist”\n2021\nInnovative Development Agency under the Ministry of Higher Education, Science and Innovation\n\n\nWinner, 100 Ideas for Uzbekistan\n2021\nYouth Affairs Agency"
+  },
+  {
+    "objectID": "publications.html#test-scores",
+    "href": "publications.html#test-scores",
+    "title": "Curriculum Vitae",
+    "section": "Test Scores",
+    "text": "Test Scores\n\nGRE General Test\nValid 06/2023 – 06/2028\nVerbal Reasoning 168/170 (98th percentile) · Quantitative Reasoning 168/170 (87th percentile) · Analytical Writing 5.0/6 (91st percentile)"
+  },
+  {
+    "objectID": "publications.html#skills",
+    "href": "publications.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\n\nQuantitative & Programming\nStata · R (RStudio, R Markdown) · Python · Quarto\n\n\nResearch\nEconometric modelling · Monte Carlo simulation · Policy analysis · Report writing\n\n\nTools\nMicrosoft Office (Excel, Word, PowerPoint, Access) · Google Workspace"
+  },
+  {
+    "objectID": "publications.html#languages",
+    "href": "publications.html#languages",
+    "title": "Curriculum Vitae",
+    "section": "Languages",
+    "text": "Languages\n\nUzbek\nNative\n\n\nEnglish\nC1\n\n\nRussian\nB1 (listening, spoken interaction)"
   }
 ]

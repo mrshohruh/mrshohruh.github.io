@@ -16,6 +16,14 @@ Full list also available on [Google Scholar](https://scholar.google.com/citation
 :::
 
 ::: {.pub}
+[2026 · Scientific Journal of Fergana State University (Ilmiy xabarlar)]{.pub-year}
+
+[External Debt Accumulation and Macroeconomic Stability in Post-Soviet Economies]{.pub-title}
+
+[journal.fdu.uz](https://journal.fdu.uz/main/article/7697)
+:::
+
+::: {.pub}
 [2023]{.pub-year}
 
 [Econometric Analysis of the Impact of Innovative Development of Business Entities on Economic Growth on the Example of Uzbekistan]{.pub-title}
