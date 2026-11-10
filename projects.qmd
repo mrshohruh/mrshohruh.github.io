@@ -14,6 +14,7 @@ Monthly nowcasts of Uzbekistan's real GDP growth (production method), published 
 - **Method:** Monthly ingestion of indicator series into a vintage store with quality checks and alerts; transformations into model-ready y/y and seasonally adjusted panels; as-of reconstruction so the model can be evaluated against the information set available on any past date.
 - **Pipeline:** Automated scheduled runs commit each vintage and the rebuilt panels to a dedicated data branch; change detection explains every revision.
 - **Tools:** Python, pandas, GitHub Actions
+- **Live now-cast:** [2026Q4 headline](https://mrshohruh.github.io/nowcasting/2026Q4/en/headline.html)
 
 [View repository on GitHub](https://github.com/mrshohruh/nowcasting)
 :::
