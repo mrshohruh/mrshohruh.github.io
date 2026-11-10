@@ -214,16 +214,16 @@ ul.task-list li input[type="checkbox"] {
 </section>
 </div>
 <div class="card">
-<p><span class="eyebrow">Research Tools · Housing Economics</span></p>
-<section id="uzbekistan-housing-market-research-agent" class="level3">
-<h3 class="anchored" data-anchor-id="uzbekistan-housing-market-research-agent">Uzbekistan Housing Market Research Agent</h3>
-<p>An autonomous research agent that turns raw housing data into a complete market and policy report.</p>
+<p><span class="eyebrow">Housing Economics · Agentic Reporting</span></p>
+<section id="uyjoy-quarterly-uzbek-housing-rent-market-report" class="level3">
+<h3 class="anchored" data-anchor-id="uyjoy-quarterly-uzbek-housing-rent-market-report">Uyjoy — Quarterly Uzbek Housing &amp; Rent Market Report</h3>
+<p>An agent that writes the quarterly Uzbek housing and rent market report (nationwide and Tashkent) in Uzbek, from raw olx.uz listings to a cited, numerically verified PDF.</p>
 <ul>
-<li><strong>Method:</strong> Ingests JSON, SQL, CSV, Excel, or live database inputs; infers column semantics in English, Russian, and Uzbek; computes cross-sectional and time-series statistics (growth, seasonality, structural breaks, regional convergence); identifies drivers via correlation and multivariate OLS; and researches the policy and macroeconomic context.</li>
-<li><strong>Output:</strong> A 13-section Word report with charts, tables, a dated policy timeline, and evidence-based recommendations. Runs fully offline or with Claude for narrative synthesis.</li>
-<li><strong>Tools:</strong> Python, pandas, Streamlit, Anthropic Claude API</li>
+<li><strong>Method:</strong> Monthly olx.uz parquet exports are cleaned (duplicates, outliers, thin-cell flags, price caps) into a facts pack of medians, yields, an index and rankings for every region and Tashkent district; a listing-weighted change and a same-listings like-for-like check travel with every quarterly change so cleaning breaks never masquerade as market moves.</li>
+<li><strong>Pipeline:</strong> Five sequential steps — build facts, collect cited news, write each section in Uzbek with Claude, validate every number against the facts pack and news markers, then render to HTML and PDF with hand-built SVG charts (national and district choropleths, dumbbells, heatmaps, iso-yield scatters).</li>
+<li><strong>Tools:</strong> Python, pandas, Anthropic Claude API, Jinja, Playwright</li>
 </ul>
-<p><a href="https://github.com/mrshohruh/Economic-Research-Agent">View repository on GitHub</a></p>
+<p><a href="https://github.com/mrshohruh/uyjoy-report">View repository on GitHub</a></p>
 </section>
 </div>
 </div>
