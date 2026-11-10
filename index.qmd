@@ -62,12 +62,12 @@ Monte Carlo study of finite-sample inference for Double LASSO in high-dimensiona
 [View on GitHub](https://github.com/mrshohruh/Double_Lasso)
 :::
 :::{.card}
-[Research Tools · Housing]{.eyebrow}
+[Housing Economics · Agentic Reporting]{.eyebrow}
 
-### Uzbekistan Housing Market Research Agent
-An autonomous agent that turns raw housing data into a complete market and policy report.
+### Uyjoy — Quarterly Uzbek Housing & Rent Market Report
+An agent that turns raw olx.uz listings into a cited, numerically verified quarterly report in Uzbek.
 
-[View on GitHub](https://github.com/mrshohruh/Economic-Research-Agent)
+[View on GitHub](https://github.com/mrshohruh/uyjoy-report)
 :::
 :::
 

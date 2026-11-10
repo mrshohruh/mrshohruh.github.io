@@ -32,16 +32,16 @@ Finite-sample inference for Double LASSO in high-dimensional linear models.
 [View repository on GitHub](https://github.com/mrshohruh/Double_Lasso)
 :::
 :::{.card}
-[Research Tools · Housing Economics]{.eyebrow}
+[Housing Economics · Agentic Reporting]{.eyebrow}
 
-### Uzbekistan Housing Market Research Agent
+### Uyjoy — Quarterly Uzbek Housing & Rent Market Report
 
-An autonomous research agent that turns raw housing data into a complete market and policy report.
+An agent that writes the quarterly Uzbek housing and rent market report (nationwide and Tashkent) in Uzbek, from raw olx.uz listings to a cited, numerically verified PDF.
 
-- **Method:** Ingests JSON, SQL, CSV, Excel, or live database inputs; infers column semantics in English, Russian, and Uzbek; computes cross-sectional and time-series statistics (growth, seasonality, structural breaks, regional convergence); identifies drivers via correlation and multivariate OLS; and researches the policy and macroeconomic context.
-- **Output:** A 13-section Word report with charts, tables, a dated policy timeline, and evidence-based recommendations. Runs fully offline or with Claude for narrative synthesis.
-- **Tools:** Python, pandas, Streamlit, Anthropic Claude API
+- **Method:** Monthly olx.uz parquet exports are cleaned (duplicates, outliers, thin-cell flags, price caps) into a facts pack of medians, yields, an index and rankings for every region and Tashkent district; a listing-weighted change and a same-listings like-for-like check travel with every quarterly change so cleaning breaks never masquerade as market moves.
+- **Pipeline:** Five sequential steps — build facts, collect cited news, write each section in Uzbek with Claude, validate every number against the facts pack and news markers, then render to HTML and PDF with hand-built SVG charts (national and district choropleths, dumbbells, heatmaps, iso-yield scatters).
+- **Tools:** Python, pandas, Anthropic Claude API, Jinja, Playwright
 
-[View repository on GitHub](https://github.com/mrshohruh/Economic-Research-Agent)
+[View repository on GitHub](https://github.com/mrshohruh/uyjoy-report)
 :::
 :::
