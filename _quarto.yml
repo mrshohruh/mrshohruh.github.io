@@ -24,6 +24,8 @@ website:
         text: CV
       - href: contact.qmd
         text: Contact
+      - href: https://mrshohruh.github.io/nowcasting/2026Q4/en/headline.html
+        text: Now-casting
     right:
       - icon: mortarboard-fill
         href: https://scholar.google.com/citations?hl=en&user=j_8QOEcAAAAJ
