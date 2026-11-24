@@ -8,6 +8,14 @@ Full list also available on [Google Scholar](https://scholar.google.com/citation
 ## Journal Articles
 
 ::: {.pub}
+[2026 · Research Square (Preprint)]{.pub-year}
+
+[Evaluating the Confidence-Interval Performance of the Double LASSO Estimator in High-Dimensional Linear Models]{.pub-title}
+
+[DOI: 10.21203/rs.3.rs-11838922/v1](https://doi.org/10.21203/rs.3.rs-11838922/v1)
+:::
+
+::: {.pub}
 [2026 · Quality & Quantity (Springer)]{.pub-year}
 
 [Structural drivers and distributional inequality in global renewable energy adoption]{.pub-title}
