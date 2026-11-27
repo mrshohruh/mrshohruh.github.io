@@ -1,0 +1,13 @@
+---
+title: "Telegram post \\#72"
+description: ""
+date: "2026-11-27T04:43:10+00:00"
+categories: [Telegram]
+telegram-url: https://t.me/iqtisodchiroq/72
+---
+
+````{=html}
+<div class="tg-post">
+<p class="tg-source"><a href="https://t.me/iqtisodchiroq/72" target="_blank" rel="noopener">View on Telegram →</a></p>
+</div>
+````
